@@ -1,0 +1,6167 @@
+fileFormatVersion: 2
+guid: 8d26a1f0f4cf20c4884da007415b422e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2312696157371970652
+    second: goku_spritesheet_transparent_0
+  - first:
+      213: 6943687334783536292
+    second: goku_spritesheet_transparent_1
+  - first:
+      213: 7954920914288937232
+    second: goku_spritesheet_transparent_2
+  - first:
+      213: -4244288741961631092
+    second: goku_spritesheet_transparent_3
+  - first:
+      213: 5793005408764433828
+    second: goku_spritesheet_transparent_4
+  - first:
+      213: 441536360418049320
+    second: goku_spritesheet_transparent_5
+  - first:
+      213: 351677440211494117
+    second: goku_spritesheet_transparent_6
+  - first:
+      213: -7735774886787457230
+    second: goku_spritesheet_transparent_7
+  - first:
+      213: -2925838901557599193
+    second: goku_spritesheet_transparent_8
+  - first:
+      213: -95214301364585805
+    second: goku_spritesheet_transparent_9
+  - first:
+      213: 4932054014332151201
+    second: goku_spritesheet_transparent_10
+  - first:
+      213: 3032356202596628953
+    second: goku_spritesheet_transparent_11
+  - first:
+      213: -5008082990231479416
+    second: goku_spritesheet_transparent_12
+  - first:
+      213: -3611369353686407142
+    second: goku_spritesheet_transparent_13
+  - first:
+      213: 5332667070387145757
+    second: goku_spritesheet_transparent_14
+  - first:
+      213: -2037991546656569929
+    second: goku_spritesheet_transparent_15
+  - first:
+      213: -2277932492756175848
+    second: goku_spritesheet_transparent_16
+  - first:
+      213: 8229776833329698730
+    second: goku_spritesheet_transparent_17
+  - first:
+      213: 5483675993110251845
+    second: goku_spritesheet_transparent_18
+  - first:
+      213: 6606229197427812630
+    second: goku_spritesheet_transparent_19
+  - first:
+      213: -8340834806600040467
+    second: goku_spritesheet_transparent_20
+  - first:
+      213: -873195317636038146
+    second: goku_spritesheet_transparent_21
+  - first:
+      213: 7490277050067886837
+    second: goku_spritesheet_transparent_22
+  - first:
+      213: 8744384566582873009
+    second: goku_spritesheet_transparent_23
+  - first:
+      213: 464058405215030215
+    second: goku_spritesheet_transparent_24
+  - first:
+      213: -3935175269206071355
+    second: goku_spritesheet_transparent_25
+  - first:
+      213: -3449244303290322818
+    second: goku_spritesheet_transparent_26
+  - first:
+      213: -5869670096415816497
+    second: goku_spritesheet_transparent_27
+  - first:
+      213: -105155531120895313
+    second: goku_spritesheet_transparent_28
+  - first:
+      213: 3297033089418013411
+    second: goku_spritesheet_transparent_29
+  - first:
+      213: 7724735339958246745
+    second: goku_spritesheet_transparent_30
+  - first:
+      213: -2376748578780655921
+    second: goku_spritesheet_transparent_31
+  - first:
+      213: 6678346802270435311
+    second: goku_spritesheet_transparent_32
+  - first:
+      213: -209635330681723522
+    second: goku_spritesheet_transparent_33
+  - first:
+      213: -8259931012139434858
+    second: goku_spritesheet_transparent_34
+  - first:
+      213: -1421912639055121564
+    second: goku_spritesheet_transparent_35
+  - first:
+      213: -1912154933578728412
+    second: goku_spritesheet_transparent_36
+  - first:
+      213: 1078039526852379971
+    second: goku_spritesheet_transparent_37
+  - first:
+      213: -2926110084462881337
+    second: goku_spritesheet_transparent_38
+  - first:
+      213: -6723623713051896790
+    second: goku_spritesheet_transparent_39
+  - first:
+      213: -5344581284775980199
+    second: goku_spritesheet_transparent_40
+  - first:
+      213: 3487697105985815952
+    second: goku_spritesheet_transparent_41
+  - first:
+      213: 7677790994081139596
+    second: goku_spritesheet_transparent_42
+  - first:
+      213: -600613906217004977
+    second: goku_spritesheet_transparent_43
+  - first:
+      213: 1310365565201171926
+    second: goku_spritesheet_transparent_44
+  - first:
+      213: -4141108447330052886
+    second: goku_spritesheet_transparent_45
+  - first:
+      213: -6630017450186013562
+    second: goku_spritesheet_transparent_46
+  - first:
+      213: 9188122112437680578
+    second: goku_spritesheet_transparent_47
+  - first:
+      213: 4317686679984989450
+    second: goku_spritesheet_transparent_48
+  - first:
+      213: 7456040101475601064
+    second: goku_spritesheet_transparent_49
+  - first:
+      213: 707073557772848612
+    second: goku_spritesheet_transparent_50
+  - first:
+      213: -5195079207676861522
+    second: goku_spritesheet_transparent_51
+  - first:
+      213: -7633628311630538235
+    second: goku_spritesheet_transparent_52
+  - first:
+      213: -1542956730075026352
+    second: goku_spritesheet_transparent_53
+  - first:
+      213: -4500368036897783742
+    second: goku_spritesheet_transparent_54
+  - first:
+      213: 7543807520759917688
+    second: goku_spritesheet_transparent_55
+  - first:
+      213: 9000680955375997146
+    second: goku_spritesheet_transparent_56
+  - first:
+      213: 8110485079529784921
+    second: goku_spritesheet_transparent_57
+  - first:
+      213: 11166003663850433
+    second: goku_spritesheet_transparent_58
+  - first:
+      213: 978194791235978011
+    second: goku_spritesheet_transparent_59
+  - first:
+      213: 3933957120443737621
+    second: goku_spritesheet_transparent_60
+  - first:
+      213: -7904977357788269879
+    second: goku_spritesheet_transparent_61
+  - first:
+      213: 5470049480147862516
+    second: goku_spritesheet_transparent_62
+  - first:
+      213: -2263182712155345664
+    second: goku_spritesheet_transparent_63
+  - first:
+      213: 482893032949340624
+    second: goku_spritesheet_transparent_64
+  - first:
+      213: 7482520063223940721
+    second: goku_spritesheet_transparent_65
+  - first:
+      213: -3954321194712861638
+    second: goku_spritesheet_transparent_66
+  - first:
+      213: -4098014253134379135
+    second: goku_spritesheet_transparent_67
+  - first:
+      213: -7542171210722044438
+    second: goku_spritesheet_transparent_68
+  - first:
+      213: 7499525793068492256
+    second: goku_spritesheet_transparent_69
+  - first:
+      213: -7424202369059204711
+    second: goku_spritesheet_transparent_70
+  - first:
+      213: -3836632413282063545
+    second: goku_spritesheet_transparent_71
+  - first:
+      213: -9087669933508014320
+    second: goku_spritesheet_transparent_72
+  - first:
+      213: 9066501444689541044
+    second: goku_spritesheet_transparent_73
+  - first:
+      213: -4002202894535321569
+    second: goku_spritesheet_transparent_74
+  - first:
+      213: -3261484571590111861
+    second: goku_spritesheet_transparent_75
+  - first:
+      213: 319782987068725932
+    second: goku_spritesheet_transparent_76
+  - first:
+      213: 6011500878661047695
+    second: goku_spritesheet_transparent_77
+  - first:
+      213: -375063377114802668
+    second: goku_spritesheet_transparent_78
+  - first:
+      213: 3898467009591435164
+    second: goku_spritesheet_transparent_79
+  - first:
+      213: -1321543488406317791
+    second: goku_spritesheet_transparent_80
+  - first:
+      213: -3981204866316859831
+    second: goku_spritesheet_transparent_81
+  - first:
+      213: 8000133775764483168
+    second: goku_spritesheet_transparent_82
+  - first:
+      213: 8605612208860822133
+    second: goku_spritesheet_transparent_83
+  - first:
+      213: -1091618074999901726
+    second: goku_spritesheet_transparent_84
+  - first:
+      213: 6847808893772290382
+    second: goku_spritesheet_transparent_85
+  - first:
+      213: -4574797506708516330
+    second: goku_spritesheet_transparent_86
+  - first:
+      213: 1739156552843639064
+    second: goku_spritesheet_transparent_87
+  - first:
+      213: -368831434488021357
+    second: goku_spritesheet_transparent_88
+  - first:
+      213: 2109593401161492554
+    second: goku_spritesheet_transparent_89
+  - first:
+      213: -7454199250784221480
+    second: goku_spritesheet_transparent_90
+  - first:
+      213: -7193933722282265453
+    second: goku_spritesheet_transparent_91
+  - first:
+      213: -733725975013051521
+    second: goku_spritesheet_transparent_92
+  - first:
+      213: -685414789637397330
+    second: goku_spritesheet_transparent_93
+  - first:
+      213: -8597479710424695253
+    second: goku_spritesheet_transparent_94
+  - first:
+      213: 4673701299043997735
+    second: goku_spritesheet_transparent_95
+  - first:
+      213: -1138152717127238044
+    second: goku_spritesheet_transparent_96
+  - first:
+      213: 1957826571509252832
+    second: goku_spritesheet_transparent_97
+  - first:
+      213: 8004061515869048425
+    second: goku_spritesheet_transparent_98
+  - first:
+      213: 3094566928438280149
+    second: goku_spritesheet_transparent_99
+  - first:
+      213: -8204830986263291443
+    second: goku_spritesheet_transparent_100
+  - first:
+      213: 756707770231861998
+    second: goku_spritesheet_transparent_101
+  - first:
+      213: 4339888113698247377
+    second: goku_spritesheet_transparent_102
+  - first:
+      213: -6216405665568568856
+    second: goku_spritesheet_transparent_103
+  - first:
+      213: -5332240664592029754
+    second: goku_spritesheet_transparent_104
+  - first:
+      213: 7673395725266859572
+    second: goku_spritesheet_transparent_105
+  - first:
+      213: -240945259726886538
+    second: goku_spritesheet_transparent_106
+  - first:
+      213: 918269020394597206
+    second: goku_spritesheet_transparent_107
+  - first:
+      213: -5641170220948196999
+    second: goku_spritesheet_transparent_108
+  - first:
+      213: -6675884066219732625
+    second: goku_spritesheet_transparent_109
+  - first:
+      213: -4308075336619774927
+    second: goku_spritesheet_transparent_110
+  - first:
+      213: -2802352731534176441
+    second: goku_spritesheet_transparent_111
+  - first:
+      213: -5806252288561271901
+    second: goku_spritesheet_transparent_112
+  - first:
+      213: -1269341700080241181
+    second: goku_spritesheet_transparent_113
+  - first:
+      213: 6706713962753145438
+    second: goku_spritesheet_transparent_114
+  - first:
+      213: -1889972225576102666
+    second: goku_spritesheet_transparent_115
+  - first:
+      213: -2914380103527307244
+    second: goku_spritesheet_transparent_116
+  - first:
+      213: 1008976587184835255
+    second: goku_spritesheet_transparent_117
+  - first:
+      213: 4350901461645630386
+    second: goku_spritesheet_transparent_118
+  - first:
+      213: -7479786346029801508
+    second: goku_spritesheet_transparent_119
+  - first:
+      213: -8335071063052760766
+    second: goku_spritesheet_transparent_120
+  - first:
+      213: 6962249755490543751
+    second: goku_spritesheet_transparent_121
+  - first:
+      213: 1284712065118941530
+    second: goku_spritesheet_transparent_122
+  - first:
+      213: -1008654776744777904
+    second: goku_spritesheet_transparent_123
+  - first:
+      213: -5143985001263918144
+    second: goku_spritesheet_transparent_124
+  - first:
+      213: -7502007685498473925
+    second: goku_spritesheet_transparent_125
+  - first:
+      213: -1587724838950912624
+    second: goku_spritesheet_transparent_126
+  - first:
+      213: -1639093154813835116
+    second: goku_spritesheet_transparent_127
+  - first:
+      213: -3164931360012733198
+    second: goku_spritesheet_transparent_128
+  - first:
+      213: -3164454787695785876
+    second: goku_spritesheet_transparent_129
+  - first:
+      213: -8795080786885960538
+    second: goku_spritesheet_transparent_130
+  - first:
+      213: -6049046497910722576
+    second: goku_spritesheet_transparent_131
+  - first:
+      213: -4499827773677457107
+    second: goku_spritesheet_transparent_132
+  - first:
+      213: -436305631234790363
+    second: goku_spritesheet_transparent_133
+  - first:
+      213: 1729886631509601787
+    second: goku_spritesheet_transparent_134
+  - first:
+      213: 2620335243941529077
+    second: goku_spritesheet_transparent_135
+  - first:
+      213: -1635557552665448314
+    second: goku_spritesheet_transparent_136
+  - first:
+      213: 4631956412007306985
+    second: goku_spritesheet_transparent_137
+  - first:
+      213: -8742684946779359190
+    second: goku_spritesheet_transparent_138
+  - first:
+      213: 4349560692517918140
+    second: goku_spritesheet_transparent_139
+  - first:
+      213: 5555706756494578781
+    second: goku_spritesheet_transparent_140
+  - first:
+      213: -3683281370359817383
+    second: goku_spritesheet_transparent_141
+  - first:
+      213: -8249214346750709962
+    second: goku_spritesheet_transparent_142
+  - first:
+      213: 6155503169927933514
+    second: goku_spritesheet_transparent_143
+  - first:
+      213: -3919059195843949959
+    second: goku_spritesheet_transparent_144
+  - first:
+      213: -7282919841160400491
+    second: goku_spritesheet_transparent_145
+  - first:
+      213: 8596734174045177103
+    second: goku_spritesheet_transparent_146
+  - first:
+      213: -808700196724226859
+    second: goku_spritesheet_transparent_147
+  - first:
+      213: 977640085485398509
+    second: goku_spritesheet_transparent_148
+  - first:
+      213: -9177010609758096482
+    second: goku_spritesheet_transparent_149
+  - first:
+      213: 3629499783729861284
+    second: goku_spritesheet_transparent_150
+  - first:
+      213: -652963444726220466
+    second: goku_spritesheet_transparent_151
+  - first:
+      213: -4562789698398756966
+    second: goku_spritesheet_transparent_152
+  - first:
+      213: 8536236229768563251
+    second: goku_spritesheet_transparent_153
+  - first:
+      213: -757771658853483258
+    second: goku_spritesheet_transparent_154
+  - first:
+      213: -8626315575589001220
+    second: goku_spritesheet_transparent_155
+  - first:
+      213: -950562108780503234
+    second: goku_spritesheet_transparent_156
+  - first:
+      213: -4312808317402615355
+    second: goku_spritesheet_transparent_157
+  - first:
+      213: -6512832781584744180
+    second: goku_spritesheet_transparent_158
+  - first:
+      213: -1684606811037688447
+    second: goku_spritesheet_transparent_159
+  - first:
+      213: 6432112713843445180
+    second: goku_spritesheet_transparent_160
+  - first:
+      213: -7033164819095338779
+    second: goku_spritesheet_transparent_161
+  - first:
+      213: -6308420601478769366
+    second: goku_spritesheet_transparent_162
+  - first:
+      213: 4747584213136977986
+    second: goku_spritesheet_transparent_163
+  - first:
+      213: -1837796213477401425
+    second: goku_spritesheet_transparent_164
+  - first:
+      213: -4376830019094561147
+    second: goku_spritesheet_transparent_165
+  - first:
+      213: -865776259961841364
+    second: goku_spritesheet_transparent_166
+  - first:
+      213: 555332126198737721
+    second: goku_spritesheet_transparent_167
+  - first:
+      213: -5760462307334578161
+    second: goku_spritesheet_transparent_168
+  - first:
+      213: -7830689306208775479
+    second: goku_spritesheet_transparent_169
+  - first:
+      213: 8134191364150671162
+    second: goku_spritesheet_transparent_170
+  - first:
+      213: 5712864278720902214
+    second: goku_spritesheet_transparent_171
+  - first:
+      213: 4860416546838693600
+    second: goku_spritesheet_transparent_172
+  - first:
+      213: 1850203820817888696
+    second: goku_spritesheet_transparent_173
+  - first:
+      213: -4318605786619067168
+    second: goku_spritesheet_transparent_174
+  - first:
+      213: 5292699071664680963
+    second: goku_spritesheet_transparent_175
+  - first:
+      213: 5597919930084822198
+    second: goku_spritesheet_transparent_176
+  - first:
+      213: -5015775789371113069
+    second: goku_spritesheet_transparent_177
+  - first:
+      213: -7974906254772500814
+    second: goku_spritesheet_transparent_178
+  - first:
+      213: -6527441820881825234
+    second: goku_spritesheet_transparent_179
+  - first:
+      213: -1153574892330206575
+    second: goku_spritesheet_transparent_180
+  - first:
+      213: -7799729946260516666
+    second: goku_spritesheet_transparent_181
+  - first:
+      213: -6274596591274070796
+    second: goku_spritesheet_transparent_182
+  - first:
+      213: -7549925939134362988
+    second: goku_spritesheet_transparent_183
+  - first:
+      213: -1905642564988200467
+    second: goku_spritesheet_transparent_184
+  - first:
+      213: 4328569277748334345
+    second: goku_spritesheet_transparent_185
+  - first:
+      213: -6841476868718494977
+    second: goku_spritesheet_transparent_186
+  - first:
+      213: 3203042386024818302
+    second: goku_spritesheet_transparent_187
+  - first:
+      213: 6408884336906872683
+    second: goku_spritesheet_transparent_188
+  - first:
+      213: -9074870000171038511
+    second: goku_spritesheet_transparent_189
+  - first:
+      213: 6622827316562937658
+    second: goku_spritesheet_transparent_190
+  - first:
+      213: 7781388815485751541
+    second: goku_spritesheet_transparent_191
+  - first:
+      213: 1062535289818872269
+    second: goku_spritesheet_transparent_192
+  - first:
+      213: 2913648867211154347
+    second: goku_spritesheet_transparent_193
+  - first:
+      213: -145801399843682872
+    second: goku_spritesheet_transparent_194
+  - first:
+      213: -6164833912158188795
+    second: goku_spritesheet_transparent_195
+  - first:
+      213: 2119063984209602534
+    second: goku_spritesheet_transparent_196
+  - first:
+      213: 1577368093076768270
+    second: goku_spritesheet_transparent_197
+  - first:
+      213: -6682064652656622984
+    second: goku_spritesheet_transparent_198
+  - first:
+      213: 3112715928275839149
+    second: goku_spritesheet_transparent_199
+  - first:
+      213: -2104500453591018244
+    second: goku_spritesheet_transparent_200
+  - first:
+      213: 2418118326823382653
+    second: goku_spritesheet_transparent_201
+  - first:
+      213: -8532285477896885138
+    second: goku_spritesheet_transparent_202
+  - first:
+      213: -3738878994612564504
+    second: goku_spritesheet_transparent_203
+  - first:
+      213: -7414769611465473596
+    second: goku_spritesheet_transparent_204
+  - first:
+      213: 2327338720460967509
+    second: goku_spritesheet_transparent_205
+  - first:
+      213: 8576261108341929867
+    second: goku_spritesheet_transparent_206
+  - first:
+      213: -2669189650673735832
+    second: goku_spritesheet_transparent_207
+  - first:
+      213: -7650208554556146743
+    second: goku_spritesheet_transparent_208
+  - first:
+      213: 5555804049748378979
+    second: goku_spritesheet_transparent_209
+  - first:
+      213: 954258522126781932
+    second: goku_spritesheet_transparent_210
+  - first:
+      213: -1524256353970693018
+    second: goku_spritesheet_transparent_211
+  - first:
+      213: -1960663556419451821
+    second: goku_spritesheet_transparent_212
+  - first:
+      213: 4116099235958575610
+    second: goku_spritesheet_transparent_213
+  - first:
+      213: 7386155036540835323
+    second: goku_spritesheet_transparent_214
+  - first:
+      213: -3984503665127018507
+    second: goku_spritesheet_transparent_215
+  - first:
+      213: -5272334579970886654
+    second: goku_spritesheet_transparent_216
+  - first:
+      213: 6256537435507090213
+    second: goku_spritesheet_transparent_217
+  - first:
+      213: 166100529773972353
+    second: goku_spritesheet_transparent_218
+  - first:
+      213: -1571112943521197558
+    second: goku_spritesheet_transparent_219
+  - first:
+      213: 2149828473197108113
+    second: goku_spritesheet_transparent_220
+  - first:
+      213: 8523561076814909603
+    second: goku_spritesheet_transparent_221
+  - first:
+      213: -5114931265409474524
+    second: goku_spritesheet_transparent_222
+  - first:
+      213: 2464537550113633847
+    second: goku_spritesheet_transparent_223
+  - first:
+      213: 371729833172172034
+    second: goku_spritesheet_transparent_224
+  - first:
+      213: 2370084795855109225
+    second: goku_spritesheet_transparent_0
+  - first:
+      213: -721000564264298289
+    second: goku_spritesheet_transparent_1
+  - first:
+      213: -6708460330203555424
+    second: goku_spritesheet_transparent_2
+  - first:
+      213: -5327880567656580286
+    second: goku_spritesheet_transparent_3
+  - first:
+      213: -4034383536573688166
+    second: goku_spritesheet_transparent_4
+  - first:
+      213: -7888434059627295021
+    second: goku_spritesheet_transparent_5
+  - first:
+      213: 7072788709616257006
+    second: goku_spritesheet_transparent_6
+  - first:
+      213: 6772100188790689141
+    second: goku_spritesheet_transparent_7
+  - first:
+      213: 1049447998567975593
+    second: goku_spritesheet_transparent_8
+  - first:
+      213: 336994475739986670
+    second: goku_spritesheet_transparent_9
+  - first:
+      213: 4970562910196629662
+    second: goku_spritesheet_transparent_10
+  - first:
+      213: -6483721079218554647
+    second: goku_spritesheet_transparent_11
+  - first:
+      213: -6543719206616586532
+    second: goku_spritesheet_transparent_12
+  - first:
+      213: 7087209723622336137
+    second: goku_spritesheet_transparent_13
+  - first:
+      213: 1932945068494209670
+    second: goku_spritesheet_transparent_14
+  - first:
+      213: -4071812277865861238
+    second: goku_spritesheet_transparent_15
+  - first:
+      213: -238286304882095221
+    second: goku_spritesheet_transparent_16
+  - first:
+      213: 2956682029595939504
+    second: goku_spritesheet_transparent_17
+  - first:
+      213: -432188611232921448
+    second: goku_spritesheet_transparent_18
+  - first:
+      213: -2396089615740675508
+    second: goku_spritesheet_transparent_19
+  - first:
+      213: 1856036383663753178
+    second: goku_spritesheet_transparent_20
+  - first:
+      213: -6994080054552117235
+    second: goku_spritesheet_transparent_21
+  - first:
+      213: 2761286399725251985
+    second: goku_spritesheet_transparent_22
+  - first:
+      213: 7487813573380204905
+    second: goku_spritesheet_transparent_23
+  - first:
+      213: 599670406925225801
+    second: goku_spritesheet_transparent_24
+  - first:
+      213: 7715515459166131981
+    second: goku_spritesheet_transparent_25
+  - first:
+      213: -7863752802335162294
+    second: goku_spritesheet_transparent_26
+  - first:
+      213: 8258466928609613988
+    second: goku_spritesheet_transparent_27
+  - first:
+      213: 3395650527317317707
+    second: goku_spritesheet_transparent_28
+  - first:
+      213: -1646030723911523225
+    second: goku_spritesheet_transparent_29
+  - first:
+      213: 2948759467747437963
+    second: goku_spritesheet_transparent_30
+  - first:
+      213: -977020054883546503
+    second: goku_spritesheet_transparent_31
+  - first:
+      213: 3241113931624433218
+    second: goku_spritesheet_transparent_32
+  - first:
+      213: 7854888874616215572
+    second: goku_spritesheet_transparent_33
+  - first:
+      213: -8172875831025986695
+    second: goku_spritesheet_transparent_34
+  - first:
+      213: -8181803485104809410
+    second: goku_spritesheet_transparent_35
+  - first:
+      213: -5870256055097990625
+    second: goku_spritesheet_transparent_36
+  - first:
+      213: 6870973837239021500
+    second: goku_spritesheet_transparent_37
+  - first:
+      213: -7892936061221099820
+    second: goku_spritesheet_transparent_38
+  - first:
+      213: -9102366912439605789
+    second: goku_spritesheet_transparent_39
+  - first:
+      213: 124556854044004264
+    second: goku_spritesheet_transparent_40
+  - first:
+      213: 2999392311074721095
+    second: goku_spritesheet_transparent_41
+  - first:
+      213: -6490527897372849980
+    second: goku_spritesheet_transparent_42
+  - first:
+      213: -5789244440687759421
+    second: goku_spritesheet_transparent_43
+  - first:
+      213: -9132549243257689654
+    second: goku_spritesheet_transparent_44
+  - first:
+      213: -1450151595216283516
+    second: goku_spritesheet_transparent_45
+  - first:
+      213: -7748530732288748787
+    second: goku_spritesheet_transparent_46
+  - first:
+      213: -1943937537044553431
+    second: goku_spritesheet_transparent_47
+  - first:
+      213: 11796326599697755
+    second: goku_spritesheet_transparent_48
+  - first:
+      213: -6366272435262527247
+    second: goku_spritesheet_transparent_49
+  - first:
+      213: -4944403443048780368
+    second: goku_spritesheet_transparent_50
+  - first:
+      213: 7634850874926942652
+    second: goku_spritesheet_transparent_51
+  - first:
+      213: -8637438814561066611
+    second: goku_spritesheet_transparent_52
+  - first:
+      213: -142092231011840067
+    second: goku_spritesheet_transparent_53
+  - first:
+      213: 1462660389025345119
+    second: goku_spritesheet_transparent_54
+  - first:
+      213: 8959827508324098344
+    second: goku_spritesheet_transparent_55
+  - first:
+      213: 6851590959630917117
+    second: goku_spritesheet_transparent_56
+  - first:
+      213: -6681498309804535550
+    second: goku_spritesheet_transparent_57
+  - first:
+      213: 8058426424363324330
+    second: goku_spritesheet_transparent_58
+  - first:
+      213: 2904707360505792695
+    second: goku_spritesheet_transparent_59
+  - first:
+      213: 5745916736042294728
+    second: goku_spritesheet_transparent_60
+  - first:
+      213: 380947803306679184
+    second: goku_spritesheet_transparent_61
+  - first:
+      213: 4731707503481200985
+    second: goku_spritesheet_transparent_62
+  - first:
+      213: 1189715578639622062
+    second: goku_spritesheet_transparent_63
+  - first:
+      213: 4355353202696827438
+    second: goku_spritesheet_transparent_64
+  - first:
+      213: 5058159996280698260
+    second: goku_spritesheet_transparent_65
+  - first:
+      213: 6182468698801958831
+    second: goku_spritesheet_transparent_66
+  - first:
+      213: 5391599489185687117
+    second: goku_spritesheet_transparent_67
+  - first:
+      213: 4924011384087652228
+    second: goku_spritesheet_transparent_68
+  - first:
+      213: -4013282159973463803
+    second: goku_spritesheet_transparent_69
+  - first:
+      213: 1547815965113262917
+    second: goku_spritesheet_transparent_70
+  - first:
+      213: 8437936325989386947
+    second: goku_spritesheet_transparent_71
+  - first:
+      213: 3567922414496112015
+    second: goku_spritesheet_transparent_72
+  - first:
+      213: -9026453099644323711
+    second: goku_spritesheet_transparent_73
+  - first:
+      213: -2097877880658854158
+    second: goku_spritesheet_transparent_74
+  - first:
+      213: 4532763834244465425
+    second: goku_spritesheet_transparent_75
+  - first:
+      213: 7730501785125549697
+    second: goku_spritesheet_transparent_76
+  - first:
+      213: -1901601107509155623
+    second: goku_spritesheet_transparent_77
+  - first:
+      213: -6855031736348904474
+    second: goku_spritesheet_transparent_78
+  - first:
+      213: 3659688764785728227
+    second: goku_spritesheet_transparent_79
+  - first:
+      213: -8052630311096108775
+    second: goku_spritesheet_transparent_80
+  - first:
+      213: -4772931573365447797
+    second: goku_spritesheet_transparent_81
+  - first:
+      213: 2359234080272603596
+    second: goku_spritesheet_transparent_82
+  - first:
+      213: 1953284169990230352
+    second: goku_spritesheet_transparent_83
+  - first:
+      213: -7947478735901913340
+    second: goku_spritesheet_transparent_84
+  - first:
+      213: 2156986490089526147
+    second: goku_spritesheet_transparent_85
+  - first:
+      213: -1614010036525564709
+    second: goku_spritesheet_transparent_86
+  - first:
+      213: 5002093799889545913
+    second: goku_spritesheet_transparent_87
+  - first:
+      213: 2345866471583666014
+    second: goku_spritesheet_transparent_88
+  - first:
+      213: 151862093679584247
+    second: goku_spritesheet_transparent_89
+  - first:
+      213: 5286472190670972495
+    second: goku_spritesheet_transparent_90
+  - first:
+      213: 636276408850658983
+    second: goku_spritesheet_transparent_91
+  - first:
+      213: -814862835254348118
+    second: goku_spritesheet_transparent_92
+  - first:
+      213: -7700750613539036201
+    second: goku_spritesheet_transparent_93
+  - first:
+      213: -859299835782274292
+    second: goku_spritesheet_transparent_94
+  - first:
+      213: 7576017705028145089
+    second: goku_spritesheet_transparent_95
+  - first:
+      213: 6497699254797727858
+    second: goku_spritesheet_transparent_96
+  - first:
+      213: -4792378916401408595
+    second: goku_spritesheet_transparent_97
+  - first:
+      213: -5341976419350672968
+    second: goku_spritesheet_transparent_98
+  - first:
+      213: 5810992160635335146
+    second: goku_spritesheet_transparent_99
+  - first:
+      213: 4899289272469403408
+    second: goku_spritesheet_transparent_100
+  - first:
+      213: -6288692293235314350
+    second: goku_spritesheet_transparent_101
+  - first:
+      213: -5702283273521739182
+    second: goku_spritesheet_transparent_102
+  - first:
+      213: -2474603838906102559
+    second: goku_spritesheet_transparent_103
+  - first:
+      213: 4865117996271424155
+    second: goku_spritesheet_transparent_104
+  - first:
+      213: 1485973237333289187
+    second: goku_spritesheet_transparent_105
+  - first:
+      213: 6422795493674179089
+    second: goku_spritesheet_transparent_106
+  - first:
+      213: 7787308072885928218
+    second: goku_spritesheet_transparent_107
+  - first:
+      213: 7819268192134971410
+    second: goku_spritesheet_transparent_108
+  - first:
+      213: -6740090382960768509
+    second: goku_spritesheet_transparent_109
+  - first:
+      213: -1624922338136499949
+    second: goku_spritesheet_transparent_110
+  - first:
+      213: 523795454631163692
+    second: goku_spritesheet_transparent_111
+  - first:
+      213: 949631137629626148
+    second: goku_spritesheet_transparent_112
+  - first:
+      213: 8217016084489288748
+    second: goku_spritesheet_transparent_113
+  - first:
+      213: 3117772751640558932
+    second: goku_spritesheet_transparent_114
+  - first:
+      213: 3350715839724720025
+    second: goku_spritesheet_transparent_115
+  - first:
+      213: -1633266405641789345
+    second: goku_spritesheet_transparent_116
+  - first:
+      213: -4055002792442625529
+    second: goku_spritesheet_transparent_117
+  - first:
+      213: -1201962766092271225
+    second: goku_spritesheet_transparent_118
+  - first:
+      213: 3413260927754564882
+    second: goku_spritesheet_transparent_119
+  - first:
+      213: 666548565537592695
+    second: goku_spritesheet_transparent_120
+  - first:
+      213: -8005881628633537032
+    second: goku_spritesheet_transparent_121
+  - first:
+      213: -6499960974046553816
+    second: goku_spritesheet_transparent_122
+  - first:
+      213: -5386002577040450201
+    second: goku_spritesheet_transparent_123
+  - first:
+      213: 3934627221288420385
+    second: goku_spritesheet_transparent_124
+  - first:
+      213: -8100233792025850465
+    second: goku_spritesheet_transparent_125
+  - first:
+      213: 4624228433856393279
+    second: goku_spritesheet_transparent_126
+  - first:
+      213: 4898941422883725669
+    second: goku_spritesheet_transparent_127
+  - first:
+      213: 5609852483919533642
+    second: goku_spritesheet_transparent_128
+  - first:
+      213: -905875582834884622
+    second: goku_spritesheet_transparent_129
+  - first:
+      213: 473734340013874819
+    second: goku_spritesheet_transparent_130
+  - first:
+      213: 5177830565375347444
+    second: goku_spritesheet_transparent_131
+  - first:
+      213: -7190884610292001070
+    second: goku_spritesheet_transparent_132
+  - first:
+      213: 6550327089010481870
+    second: goku_spritesheet_transparent_133
+  - first:
+      213: 6098804961039722441
+    second: goku_spritesheet_transparent_134
+  - first:
+      213: 9177117588158747307
+    second: goku_spritesheet_transparent_135
+  - first:
+      213: -6043154773296689787
+    second: goku_spritesheet_transparent_136
+  - first:
+      213: 5820775879961648302
+    second: goku_spritesheet_transparent_137
+  - first:
+      213: 4458702806039534404
+    second: goku_spritesheet_transparent_138
+  - first:
+      213: -7430992741854664335
+    second: goku_spritesheet_transparent_139
+  - first:
+      213: -7015513642421050753
+    second: goku_spritesheet_transparent_140
+  - first:
+      213: 2676261298444213101
+    second: goku_spritesheet_transparent_141
+  - first:
+      213: 3336153943912746924
+    second: goku_spritesheet_transparent_142
+  - first:
+      213: -3410334091952591612
+    second: goku_spritesheet_transparent_143
+  - first:
+      213: 1288848891549262564
+    second: goku_spritesheet_transparent_144
+  - first:
+      213: 1091896767230950202
+    second: goku_spritesheet_transparent_145
+  - first:
+      213: 3894558848996589214
+    second: goku_spritesheet_transparent_146
+  - first:
+      213: -1353665906791233685
+    second: goku_spritesheet_transparent_147
+  - first:
+      213: 2529089997371541644
+    second: goku_spritesheet_transparent_148
+  - first:
+      213: -5251098351850537700
+    second: goku_spritesheet_transparent_149
+  - first:
+      213: 3744956289448295742
+    second: goku_spritesheet_transparent_150
+  - first:
+      213: 7175434436165567301
+    second: goku_spritesheet_transparent_151
+  - first:
+      213: 5102160662516596461
+    second: goku_spritesheet_transparent_152
+  - first:
+      213: 4985869509587004510
+    second: goku_spritesheet_transparent_153
+  - first:
+      213: -2748813144132888494
+    second: goku_spritesheet_transparent_154
+  - first:
+      213: -2108541710129451033
+    second: goku_spritesheet_transparent_155
+  - first:
+      213: -7259144145554445131
+    second: goku_spritesheet_transparent_156
+  - first:
+      213: 5281301963799546020
+    second: goku_spritesheet_transparent_157
+  - first:
+      213: 5239697291764914498
+    second: goku_spritesheet_transparent_158
+  - first:
+      213: -997739510053642576
+    second: goku_spritesheet_transparent_159
+  - first:
+      213: 1400865562405914112
+    second: goku_spritesheet_transparent_160
+  - first:
+      213: -316932224638961147
+    second: goku_spritesheet_transparent_161
+  - first:
+      213: -1286235219297719232
+    second: goku_spritesheet_transparent_162
+  - first:
+      213: -5760188225311896895
+    second: goku_spritesheet_transparent_163
+  - first:
+      213: 7285837672098179167
+    second: goku_spritesheet_transparent_164
+  - first:
+      213: 2647030710541371185
+    second: goku_spritesheet_transparent_165
+  - first:
+      213: -1572690299688750982
+    second: goku_spritesheet_transparent_166
+  - first:
+      213: 391456838216790975
+    second: goku_spritesheet_transparent_167
+  - first:
+      213: -6665505281780747677
+    second: goku_spritesheet_transparent_168
+  - first:
+      213: 646430702014358945
+    second: goku_spritesheet_transparent_169
+  - first:
+      213: -6134750467040927735
+    second: goku_spritesheet_transparent_170
+  - first:
+      213: -7576548223077480509
+    second: goku_spritesheet_transparent_171
+  - first:
+      213: 8901254435613107
+    second: goku_spritesheet_transparent_172
+  - first:
+      213: 2237243786924434715
+    second: goku_spritesheet_transparent_173
+  - first:
+      213: -2183490087584279635
+    second: goku_spritesheet_transparent_174
+  - first:
+      213: 7004642244655651926
+    second: goku_spritesheet_transparent_175
+  - first:
+      213: -2346892739068737122
+    second: goku_spritesheet_transparent_176
+  - first:
+      213: 3152231300844803015
+    second: goku_spritesheet_transparent_177
+  - first:
+      213: 676817007478398136
+    second: goku_spritesheet_transparent_178
+  - first:
+      213: -141072020791149166
+    second: goku_spritesheet_transparent_179
+  - first:
+      213: 1769708352018440647
+    second: goku_spritesheet_transparent_180
+  - first:
+      213: -564038307103056891
+    second: goku_spritesheet_transparent_181
+  - first:
+      213: -823195070087620319
+    second: goku_spritesheet_transparent_182
+  - first:
+      213: -7069897743567330042
+    second: goku_spritesheet_transparent_183
+  - first:
+      213: -574703702933666750
+    second: goku_spritesheet_transparent_184
+  - first:
+      213: -5197389235762098550
+    second: goku_spritesheet_transparent_185
+  - first:
+      213: -4391964185052312092
+    second: goku_spritesheet_transparent_186
+  - first:
+      213: -1696391625214588160
+    second: goku_spritesheet_transparent_187
+  - first:
+      213: -7183815409664507114
+    second: goku_spritesheet_transparent_188
+  - first:
+      213: -6475109277290608533
+    second: goku_spritesheet_transparent_189
+  - first:
+      213: 6640031823510160324
+    second: goku_spritesheet_transparent_190
+  - first:
+      213: -2142538232262477400
+    second: goku_spritesheet_transparent_191
+  - first:
+      213: 4279672529886221708
+    second: goku_spritesheet_transparent_192
+  - first:
+      213: 6585946493206552374
+    second: goku_spritesheet_transparent_193
+  - first:
+      213: -941444553718306744
+    second: goku_spritesheet_transparent_194
+  - first:
+      213: 8028202975301172509
+    second: goku_spritesheet_transparent_195
+  - first:
+      213: -2071788260809881204
+    second: goku_spritesheet_transparent_196
+  - first:
+      213: -3032831621622866915
+    second: goku_spritesheet_transparent_197
+  - first:
+      213: 3779006326051123296
+    second: goku_spritesheet_transparent_198
+  - first:
+      213: 7416990039260312814
+    second: goku_spritesheet_transparent_199
+  - first:
+      213: -7339434793644024311
+    second: goku_spritesheet_transparent_200
+  - first:
+      213: 3089865318080598222
+    second: goku_spritesheet_transparent_201
+  - first:
+      213: 2549694585861599974
+    second: goku_spritesheet_transparent_202
+  - first:
+      213: 1697933370624657960
+    second: goku_spritesheet_transparent_203
+  - first:
+      213: 9151942692279686781
+    second: goku_spritesheet_transparent_204
+  - first:
+      213: 7136486947531544811
+    second: goku_spritesheet_transparent_205
+  - first:
+      213: -1175456973377842916
+    second: goku_spritesheet_transparent_206
+  - first:
+      213: 8014011657957655276
+    second: goku_spritesheet_transparent_207
+  - first:
+      213: 8575207104870647892
+    second: goku_spritesheet_transparent_208
+  - first:
+      213: 4422250002998979812
+    second: goku_spritesheet_transparent_209
+  - first:
+      213: -6067213703014096428
+    second: goku_spritesheet_transparent_210
+  - first:
+      213: -2762339159532622462
+    second: goku_spritesheet_transparent_211
+  - first:
+      213: 1201673488460198627
+    second: goku_spritesheet_transparent_212
+  - first:
+      213: 4502390347812682740
+    second: goku_spritesheet_transparent_213
+  - first:
+      213: -3902410279299875991
+    second: goku_spritesheet_transparent_214
+  - first:
+      213: 3808235017536030761
+    second: goku_spritesheet_transparent_215
+  - first:
+      213: -8165287533280133154
+    second: goku_spritesheet_transparent_216
+  - first:
+      213: -3007937888884332892
+    second: goku_spritesheet_transparent_217
+  - first:
+      213: -763970720758687949
+    second: goku_spritesheet_transparent_218
+  - first:
+      213: 7915534832135274346
+    second: goku_spritesheet_transparent_219
+  - first:
+      213: 3146455928246093159
+    second: goku_spritesheet_transparent_220
+  - first:
+      213: -3765964909406935847
+    second: goku_spritesheet_transparent_221
+  - first:
+      213: 4638664531879733004
+    second: goku_spritesheet_transparent_222
+  - first:
+      213: 6917189438336449388
+    second: goku_spritesheet_transparent_223
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2483
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c7f78809b34e020800000000000000
+      internalID: 2370084795855109225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2483
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc89b2c8ecd7ef5f0800000000000000
+      internalID: -721000564264298289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2483
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9da646fd2c6e2a0800000000000000
+      internalID: -6708460330203555424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2483
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b7f1f1ad09f06b0800000000000000
+      internalID: -5327880567656580286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2484
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9657de6c8df208c0800000000000000
+      internalID: -4034383536573688166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2484
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de82d97407a68290800000000000000
+      internalID: -7888434059627295021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2484
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee70210bbd7972260800000000000000
+      internalID: 7072788709616257006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 2484
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d8938dd355bfd50800000000000000
+      internalID: 6772100188790689141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2483
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa83ecf463609e00800000000000000
+      internalID: 1049447998567975593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2483
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea30c1b0be3da400800000000000000
+      internalID: 336994475739986670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2363
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e908004b1acfaf440800000000000000
+      internalID: 4970562910196629662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2363
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8377ad7023506a0800000000000000
+      internalID: -6483721079218554647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2363
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6a7bb3d0a0035a0800000000000000
+      internalID: -6543719206616586532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2365
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9862439a1b3da5260800000000000000
+      internalID: 7087209723622336137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2377
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682c0f17c4333da10800000000000000
+      internalID: 1932945068494209670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 2365
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f2bb18e440e77c0800000000000000
+      internalID: -4071812277865861238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2363
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b89a24edf61bcf0800000000000000
+      internalID: -238286304882095221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2363
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2d8d704ae380920800000000000000
+      internalID: 2956682029595939504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2375
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8980e777fbe800af0800000000000000
+      internalID: -432188611232921448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2363
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a56c380316fbed0800000000000000
+      internalID: -2396089615740675508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2244
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad78a7ad147f1c910800000000000000
+      internalID: 1856036383663753178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2244
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00c6c12f3900fe90800000000000000
+      internalID: -6994080054552117235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2244
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dadb2c95f025620800000000000000
+      internalID: 2761286399725251985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2244
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969eca9d5ce0ae760800000000000000
+      internalID: 7487813573380204905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2244
+        width: 69
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f8713de05725800800000000000000
+      internalID: 599670406925225801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2244
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07d1aa7e64031b60800000000000000
+      internalID: 7715515459166131981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2244
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40845f7d765ed290800000000000000
+      internalID: -7863752802335162294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_27
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2244
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a856159ae7fb9270800000000000000
+      internalID: 8258466928609613988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_28
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 2246
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48dd16e926cf1f20800000000000000
+      internalID: 3395650527317317707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_29
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2246
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764efd317cf1829e0800000000000000
+      internalID: -1646030723911523225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2127
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8de72bdc191ce820800000000000000
+      internalID: 2948759467747437963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2136
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97acb32cf6de072f0800000000000000
+      internalID: -977020054883546503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_32
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2138
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2464b0bd2ffbafc20800000000000000
+      internalID: 3241113931624433218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2141
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418daa180db220d60800000000000000
+      internalID: 7854888874616215572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_34
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2136
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9731252cbbc149e80800000000000000
+      internalID: -8172875831025986695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_35
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2125
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a56405415647e80800000000000000
+      internalID: -8181803485104809410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_36
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2125
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f126c474839a88ea0800000000000000
+      internalID: -5870256055097990625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_37
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 2125
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf62ad0d4a9a5f50800000000000000
+      internalID: 6870973837239021500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_38
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2123
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6ab0c8878a67290800000000000000
+      internalID: -7892936061221099820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_39
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2123
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5a4c00585eda180800000000000000
+      internalID: -9102366912439605789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2007
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af02af7cc38ab100800000000000000
+      internalID: 124556854044004264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_41
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2006
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d85ab5a6bff9920800000000000000
+      internalID: 2999392311074721095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_42
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2020
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8045004430de5a0800000000000000
+      internalID: -6490527897372849980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_43
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2016
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfa6ea9ad878afa0800000000000000
+      internalID: -5789244440687759421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_44
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2011
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9ecdd79daa24180800000000000000
+      internalID: -9132549243257689654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_45
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2006
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488daa0bec600ebe0800000000000000
+      internalID: -1450151595216283516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_46
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2006
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d035bba3a50b77490800000000000000
+      internalID: -7748530732288748787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_47
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2007
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92169e60c1fb505e0800000000000000
+      internalID: -1943937537044553431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_48
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2005
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5521a052b8e92000800000000000000
+      internalID: 11796326599697755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_49
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2009
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8e0d833f476a7a0800000000000000
+      internalID: -6366272435262527247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_50
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1888
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdebded343f16bb0800000000000000
+      internalID: -4944403443048780368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1899
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9c9196b6074f960800000000000000
+      internalID: 7634850874926942652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_52
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1888
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81aae84927a12880800000000000000
+      internalID: -8637438814561066611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_53
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1888
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf42356edf270ef0800000000000000
+      internalID: -142092231011840067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_54
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1888
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ee3e2dfd96c4410800000000000000
+      internalID: 1462660389025345119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_55
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1888
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8216e6ac5a3b75c70800000000000000
+      internalID: 8959827508324098344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_56
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1888
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd141f2dadb51f50800000000000000
+      internalID: 6851590959630917117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_57
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1888
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2015ab4ffac8643a0800000000000000
+      internalID: -6681498309804535550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_58
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1888
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa31cc8332845df60800000000000000
+      internalID: 8058426424363324330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_59
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1888
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8096f54f79f4820800000000000000
+      internalID: 2904707360505792695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_60
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1770
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdd5c804d89dbf40800000000000000
+      internalID: 5745916736042294728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_61
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1772
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b5f0e3206694500800000000000000
+      internalID: 380947803306679184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_62
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1775
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9512c0e97e66aa140800000000000000
+      internalID: 4731707503481200985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_63
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1772
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf1090f308b28010800000000000000
+      internalID: 1189715578639622062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_64
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1770
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22ba1689a2517c30800000000000000
+      internalID: 4355353202696827438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_65
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1768
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495f663a7b1323640800000000000000
+      internalID: 5058159996280698260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_66
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1768
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafef03868a8cc550800000000000000
+      internalID: 6182468698801958831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_67
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1768
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4627146b2fc2da40800000000000000
+      internalID: 5391599489185687117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_68
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1768
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487268ae34a955440800000000000000
+      internalID: 4924011384087652228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_69
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1768
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5098e578325fd48c0800000000000000
+      internalID: -4013282159973463803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_70
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1649
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543214a6b62fa7510800000000000000
+      internalID: 1547815965113262917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_71
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1649
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca46f3e162991570800000000000000
+      internalID: 8437936325989386947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_72
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1649
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dd136488ec38130800000000000000
+      internalID: 3567922414496112015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_73
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1649
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188f9f5eab89bb280800000000000000
+      internalID: -9026453099644323711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_74
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1649
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fefd2dbe27d2e2e0800000000000000
+      internalID: -2097877880658854158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_75
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1649
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11301ee01bc97ee30800000000000000
+      internalID: 4532763834244465425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_76
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1649
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1867ee56a62484b60800000000000000
+      internalID: 7730501785125549697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_77
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1652
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d86d6a2ed72c95e0800000000000000
+      internalID: -1901601107509155623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_78
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1652
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3f4ee84f80ed0a0800000000000000
+      internalID: -6855031736348904474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_79
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1652
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea9a8daa83d9c230800000000000000
+      internalID: 3659688764785728227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_80
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1533
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919b29f856f4f3090800000000000000
+      internalID: -8052630311096108775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_81
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1541
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b836e48a50423cdb0800000000000000
+      internalID: -4772931573365447797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_82
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1533
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9d4a075eeadb020800000000000000
+      internalID: 2359234080272603596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_83
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1530
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05159a98a957b1b10800000000000000
+      internalID: 1953284169990230352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_84
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1530
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f889e7232e4b190800000000000000
+      internalID: -7947478735901913340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_85
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1530
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3835a17d8c72fed10800000000000000
+      internalID: 2156986490089526147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_86
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1530
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc7af45c62e999e0800000000000000
+      internalID: -1614010036525564709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_87
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1530
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baa99b0fc10b6540800000000000000
+      internalID: 5002093799889545913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_88
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1530
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f4e3180213e8020800000000000000
+      internalID: 2345866471583666014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_89
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1530
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f36e9405c58b1200800000000000000
+      internalID: 151862093679584247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_90
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1530
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46acefc2725d5940800000000000000
+      internalID: 5286472190670972495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_91
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1411
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a63180d50284d800800000000000000
+      internalID: 636276408850658983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_92
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1411
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa63ff3919601b4f0800000000000000
+      internalID: -814862835254348118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_93
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1411
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d362280e10712590800000000000000
+      internalID: -7700750613539036201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_94
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1411
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0365a42a572314f0800000000000000
+      internalID: -859299835782274292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_95
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1411
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfc54896fb632960800000000000000
+      internalID: 7576017705028145089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_96
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1411
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278f983cb077c2a50800000000000000
+      internalID: 6497699254797727858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_97
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1411
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da592d244cc0e7db0800000000000000
+      internalID: -4792378916401408595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_98
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1411
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b90716efbc7dd5b0800000000000000
+      internalID: -5341976419350672968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_99
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1411
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1bf37059ac4a050800000000000000
+      internalID: 5810992160635335146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_100
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1411
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017bb61c2a5cdf340800000000000000
+      internalID: 4899289272469403408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_101
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1292
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251f8ff9da31ab8a0800000000000000
+      internalID: -6288692293235314350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_102
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1292
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ac511239b6dd0b0800000000000000
+      internalID: -5702283273521739182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_103
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1294
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec0f266be078add0800000000000000
+      internalID: -2474603838906102559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_104
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1295
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b925e168a0f548340800000000000000
+      internalID: 4865117996271424155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_105
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1292
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8ecfc49cc3f9410800000000000000
+      internalID: 1485973237333289187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_106
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1292
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11add69d87a522950800000000000000
+      internalID: 6422795493674179089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_107
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1292
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11c5e0fe63121c60800000000000000
+      internalID: 7787308072885928218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_108
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1292
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21047b31efe938c60800000000000000
+      internalID: 7819268192134971410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_109
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1166
+        width: 48
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ac899d1836672a0800000000000000
+      internalID: -6740090382960768509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_110
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1296
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319d6cf1ebd1379e0800000000000000
+      internalID: -1624922338136499949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_111
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1183
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c273148d035e44700800000000000000
+      internalID: 523795454631163692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_112
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1205
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f50120d74cd2d00800000000000000
+      internalID: 949631137629626148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_113
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1196
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cb7add794b80270800000000000000
+      internalID: 8217016084489288748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_114
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1194
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d7de78ccd844b20800000000000000
+      internalID: 3117772751640558932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_115
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1176
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f011aad42208e20800000000000000
+      internalID: 3350715839724720025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_116
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1173
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5064248bd87559e0800000000000000
+      internalID: -1633266405641789345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_117
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1181
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7028d31d17cb9b7c0800000000000000
+      internalID: -4055002792442625529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_118
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1173
+        width: 33
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78103d58b35c15fe0800000000000000
+      internalID: -1201962766092271225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_119
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1173
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215f784cab65e5f20800000000000000
+      internalID: 3413260927754564882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_120
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1057
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7751a6a836e004900800000000000000
+      internalID: 666548565537592695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_121
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1054
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5e873631565e090800000000000000
+      internalID: -8005881628633537032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_122
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1054
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8299d00beef7bc5a0800000000000000
+      internalID: -6499960974046553816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_123
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1054
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d5a2441331145b0800000000000000
+      internalID: -5386002577040450201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_124
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1054
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1248a787c9a9a9630800000000000000
+      internalID: 3934627221288420385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_125
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1054
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d0fa47840369f80800000000000000
+      internalID: -8100233792025850465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_126
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1054
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f307548a24f8c2040800000000000000
+      internalID: 4624228433856393279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_127
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1054
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5616e66b4498cf340800000000000000
+      internalID: 4898941422883725669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_128
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1054
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46dd52ac133add40800000000000000
+      internalID: 5609852483919533642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_129
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1054
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff3d6af4fead63f0800000000000000
+      internalID: -905875582834884622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_130
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 936
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e5e6e4fda039600800000000000000
+      internalID: 473734340013874819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_131
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 936
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa8b5447795bd740800000000000000
+      internalID: 5177830565375347444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_132
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 936
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6d8bebb88d43c90800000000000000
+      internalID: -7190884610292001070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_133
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 936
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca961748cf67ea50800000000000000
+      internalID: 6550327089010481870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_134
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 941
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7a9299cce43a450800000000000000
+      internalID: 6098804961039722441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_135
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 942
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba21130f2dbab5f70800000000000000
+      internalID: 9177117588158747307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_136
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 937
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dc1fe60c6622ca0800000000000000
+      internalID: -6043154773296689787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_137
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 937
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac9642b2dc87c050800000000000000
+      internalID: 5820775879961648302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_138
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 936
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b1601349e70ed30800000000000000
+      internalID: 4458702806039534404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_139
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 958
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1792f3de87fcfd890800000000000000
+      internalID: -7430992741854664335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_140
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 822
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7226921383e3ae90800000000000000
+      internalID: -7015513642421050753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_141
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 822
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b94e3b87df32520800000000000000
+      internalID: 2676261298444213101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_142
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 822
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf00f616566c4e20800000000000000
+      internalID: 3336153943912746924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_143
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 822
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40de2cb463f0ca0d0800000000000000
+      internalID: -3410334091952591612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_144
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 816
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e223fdfc39e2e110800000000000000
+      internalID: 1288848891549262564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_145
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 816
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bb23e1352372f00800000000000000
+      internalID: 1091896767230950202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_146
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 816
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ebb4f83a04c0630800000000000000
+      internalID: 3894558848996589214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_147
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 832
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67c621a700d63de0800000000000000
+      internalID: -1353665906791233685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_148
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 822
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c880352f3f1291320800000000000000
+      internalID: 2529089997371541644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_149
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 816
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d3f49ded95027b0800000000000000
+      internalID: -5251098351850537700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_150
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 697
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d3ee357e1c8f330800000000000000
+      internalID: 3744956289448295742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_151
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 697
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54301c44a93449360800000000000000
+      internalID: 7175434436165567301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_152
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 700
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deef54417148ec640800000000000000
+      internalID: 5102160662516596461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_153
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 700
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c626717ed513540800000000000000
+      internalID: 4985869509587004510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_154
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 700
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258d80e52014ad9d0800000000000000
+      internalID: -2748813144132888494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_155
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 700
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efa3a57c74fcb2e0800000000000000
+      internalID: -2108541710129451033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_156
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 700
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bceed63cd6524b90800000000000000
+      internalID: -7259144145554445131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_157
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 710
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a848df8724fa4940800000000000000
+      internalID: 5281301963799546020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_158
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 684
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249593efce427b840800000000000000
+      internalID: 5239697291764914498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_159
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 717
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be51eca3315722f0800000000000000
+      internalID: -997739510053642576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_160
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 694
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00648419ecfd07310800000000000000
+      internalID: 1400865562405914112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_161
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 717
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a358422d70a9bf0800000000000000
+      internalID: -316932224638961147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_162
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 709
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ca92002ef562ee0800000000000000
+      internalID: -1286235219297719232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_163
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 578
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca85eee353bf00b0800000000000000
+      internalID: -5760188225311896895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_164
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 500
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f582290c2ce7c1560800000000000000
+      internalID: 7285837672098179167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_165
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 500
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1374e5b18642cb420800000000000000
+      internalID: 2647030710541371185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_166
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 500
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a707951418eac2ae0800000000000000
+      internalID: -1572690299688750982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_167
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 500
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb33fca9bebbe6500800000000000000
+      internalID: 391456838216790975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_168
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 500
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362f7f6f24e5f73a0800000000000000
+      internalID: -6665505281780747677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_169
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 500
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5e87d6c4598f800800000000000000
+      internalID: 646430702014358945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_170
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 500
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9002d5a14fcfcdaa0800000000000000
+      internalID: -6134750467040927735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_171
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 500
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c789db8881bad690800000000000000
+      internalID: -7576548223077480509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_172
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 500
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9a0bcc4af9f1000800000000000000
+      internalID: 8901254435613107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_173
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 500
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15a49bee594c0f10800000000000000
+      internalID: 2237243786924434715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_174
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 430
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3d3fe755fa2b1e0800000000000000
+      internalID: -2183490087584279635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_175
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 430
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c1563620d753160800000000000000
+      internalID: 7004642244655651926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_176
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 430
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e994dd9fc792e6fd0800000000000000
+      internalID: -2346892739068737122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_177
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 430
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3d8b8baa9febb20800000000000000
+      internalID: 3152231300844803015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_178
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 430
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc51bc7b79846900800000000000000
+      internalID: 676817007478398136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_179
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 430
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d3ff89ebfca0ef0800000000000000
+      internalID: -141072020791149166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_180
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 430
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1e91eae544f8810800000000000000
+      internalID: 1769708352018440647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_181
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 430
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cd869e5222c28f0800000000000000
+      internalID: -564038307103056891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_182
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 353
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129139af17c6394f0800000000000000
+      internalID: -823195070087620319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_183
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 353
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605655cc57da2ed90800000000000000
+      internalID: -7069897743567330042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_184
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 353
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244898fe60e3608f0800000000000000
+      internalID: -574703702933666750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_185
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 353
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e06fae60a2fd7b0800000000000000
+      internalID: -5197389235762098550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_186
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 353
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed08b3e7db9c03c0800000000000000
+      internalID: -4391964185052312092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_187
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 353
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b03230ec43578e0800000000000000
+      internalID: -1696391625214588160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_188
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 353
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61348f642f5fd4c90800000000000000
+      internalID: -7183815409664507114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_189
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 353
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68c14d3b6ac326a0800000000000000
+      internalID: -6475109277290608533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_190
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 353
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3cc9953c1262c50800000000000000
+      internalID: 6640031823510160324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_191
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 353
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a93d4454dc2442e0800000000000000
+      internalID: -2142538232262477400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_192
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 267
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c859dd2cd73746b30800000000000000
+      internalID: 4279672529886221708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_193
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 267
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f5e45117bf56b50800000000000000
+      internalID: 6585946493206552374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_194
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 267
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848e4e79a215fe2f0800000000000000
+      internalID: -941444553718306744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_195
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 267
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d7f8f1218e96f60800000000000000
+      internalID: 8028202975301172509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_196
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 269
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c894a98bd878f33e0800000000000000
+      internalID: -2071788260809881204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_197
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 269
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cd89175b739e5d0800000000000000
+      internalID: -3032831621622866915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_198
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 268
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0603b344b3ab17430800000000000000
+      internalID: 3779006326051123296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_199
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 276
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4b8b0d4217ee660800000000000000
+      internalID: 7416990039260312814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_200
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 281
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e94b0f0f6152a90800000000000000
+      internalID: -7339434793644024311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_201
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 272
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec05effc22861ea20800000000000000
+      internalID: 3089865318080598222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_202
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 181
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2740c87b5526320800000000000000
+      internalID: 2549694585861599974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_203
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 181
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a4d509765409710800000000000000
+      internalID: 1697933370624657960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_204
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 181
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76101ab36b320f70800000000000000
+      internalID: 9151942692279686781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_205
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 181
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be854db6115e90360800000000000000
+      internalID: 7136486947531544811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_206
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 185
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11de0d4c10ffafe0800000000000000
+      internalID: -1175456973377842916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_207
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 190
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2c762942d773f60800000000000000
+      internalID: 8014011657957655276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_208
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 213
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4588831bd61410770800000000000000
+      internalID: 8575207104870647892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_209
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 205
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec69b892fcfe5d30800000000000000
+      internalID: 4422250002998979812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_210
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 185
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d16677584deccba0800000000000000
+      internalID: -6067213703014096428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_211
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 181
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d28ee7b233aa9d0800000000000000
+      internalID: -2762339159532622462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_212
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 95
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2bca7cba33da010800000000000000
+      internalID: 1201673488460198627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_213
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 95
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbb589aa24bb7e30800000000000000
+      internalID: 4502390347812682740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_214
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 95
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b7f7ed68ad7d9c0800000000000000
+      internalID: -3902410279299875991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_215
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 95
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9284071529199d430800000000000000
+      internalID: 3808235017536030761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_216
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 95
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf79e100421fae80800000000000000
+      internalID: -8165287533280133154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_217
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 96
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a66c924d68a146d0800000000000000
+      internalID: -3007937888884332892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_218
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 97
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337116a5da4d565f0800000000000000
+      internalID: -763970720758687949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_219
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 99
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f77a4ddf0a9dd60800000000000000
+      internalID: 7915534832135274346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_220
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 96
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765c7800ff47aab20800000000000000
+      internalID: 3146455928246093159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_221
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 96
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4a63a2eda9cbbc0800000000000000
+      internalID: -3765964909406935847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_222
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 9
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0725e6a0d8df5040800000000000000
+      internalID: 4638664531879733004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku_spritesheet_transparent_223
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 0
+        width: 157
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bb024352bceff50800000000000000
+      internalID: 6917189438336449388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

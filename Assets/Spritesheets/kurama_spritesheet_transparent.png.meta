@@ -1,0 +1,5564 @@
+fileFormatVersion: 2
+guid: 422ae3d8922483c4ca2cf36c1dd13009
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1571565585135547423
+    second: kurama_spritesheet_transparent_0
+  - first:
+      213: 2614076545308803251
+    second: kurama_spritesheet_transparent_1
+  - first:
+      213: -6740939011458102071
+    second: kurama_spritesheet_transparent_2
+  - first:
+      213: -8728844242588572202
+    second: kurama_spritesheet_transparent_3
+  - first:
+      213: 5134273207766922832
+    second: kurama_spritesheet_transparent_4
+  - first:
+      213: -4513257400027697142
+    second: kurama_spritesheet_transparent_5
+  - first:
+      213: 7289175713352603791
+    second: kurama_spritesheet_transparent_6
+  - first:
+      213: 5822418169912791001
+    second: kurama_spritesheet_transparent_7
+  - first:
+      213: -6130875341358077450
+    second: kurama_spritesheet_transparent_8
+  - first:
+      213: -1975164960963676159
+    second: kurama_spritesheet_transparent_9
+  - first:
+      213: 6117379177780330965
+    second: kurama_spritesheet_transparent_10
+  - first:
+      213: -9212559419861620420
+    second: kurama_spritesheet_transparent_11
+  - first:
+      213: -3220164499578210170
+    second: kurama_spritesheet_transparent_12
+  - first:
+      213: -1162935606154328262
+    second: kurama_spritesheet_transparent_13
+  - first:
+      213: -3113200909173490375
+    second: kurama_spritesheet_transparent_14
+  - first:
+      213: -3209735263086183298
+    second: kurama_spritesheet_transparent_15
+  - first:
+      213: 5899000056346033924
+    second: kurama_spritesheet_transparent_16
+  - first:
+      213: -5119414885631369985
+    second: kurama_spritesheet_transparent_17
+  - first:
+      213: 1524884769796865786
+    second: kurama_spritesheet_transparent_18
+  - first:
+      213: -7305181017703546121
+    second: kurama_spritesheet_transparent_19
+  - first:
+      213: 6087583483423237063
+    second: kurama_spritesheet_transparent_20
+  - first:
+      213: 7218045806788872974
+    second: kurama_spritesheet_transparent_21
+  - first:
+      213: -1972740546376582611
+    second: kurama_spritesheet_transparent_22
+  - first:
+      213: 6892808562487409885
+    second: kurama_spritesheet_transparent_23
+  - first:
+      213: 9216881817318679452
+    second: kurama_spritesheet_transparent_24
+  - first:
+      213: 4181524300911262968
+    second: kurama_spritesheet_transparent_25
+  - first:
+      213: 8520827008023360092
+    second: kurama_spritesheet_transparent_26
+  - first:
+      213: -1809525794859809988
+    second: kurama_spritesheet_transparent_27
+  - first:
+      213: 7313325973407325227
+    second: kurama_spritesheet_transparent_28
+  - first:
+      213: 5699130102602672911
+    second: kurama_spritesheet_transparent_29
+  - first:
+      213: -9056040312484729297
+    second: kurama_spritesheet_transparent_30
+  - first:
+      213: -8834100753468330721
+    second: kurama_spritesheet_transparent_31
+  - first:
+      213: 581475391456160296
+    second: kurama_spritesheet_transparent_32
+  - first:
+      213: -8718443887870843777
+    second: kurama_spritesheet_transparent_33
+  - first:
+      213: 8686281963355069571
+    second: kurama_spritesheet_transparent_34
+  - first:
+      213: -4049490004404724120
+    second: kurama_spritesheet_transparent_35
+  - first:
+      213: -7083541695250367916
+    second: kurama_spritesheet_transparent_36
+  - first:
+      213: -7502295287637812827
+    second: kurama_spritesheet_transparent_37
+  - first:
+      213: -7586013272148074680
+    second: kurama_spritesheet_transparent_38
+  - first:
+      213: -6132624494813181206
+    second: kurama_spritesheet_transparent_39
+  - first:
+      213: -3107547362876379661
+    second: kurama_spritesheet_transparent_40
+  - first:
+      213: -3936035653221924635
+    second: kurama_spritesheet_transparent_41
+  - first:
+      213: 7847471171734695447
+    second: kurama_spritesheet_transparent_42
+  - first:
+      213: 3127798709073811755
+    second: kurama_spritesheet_transparent_43
+  - first:
+      213: -6921482991775770735
+    second: kurama_spritesheet_transparent_44
+  - first:
+      213: -5011402059303911352
+    second: kurama_spritesheet_transparent_45
+  - first:
+      213: 896860675714498814
+    second: kurama_spritesheet_transparent_46
+  - first:
+      213: 3094700989129498730
+    second: kurama_spritesheet_transparent_47
+  - first:
+      213: 6294956954437503587
+    second: kurama_spritesheet_transparent_48
+  - first:
+      213: -7214713185335674919
+    second: kurama_spritesheet_transparent_49
+  - first:
+      213: -4564677719827693829
+    second: kurama_spritesheet_transparent_50
+  - first:
+      213: 806823392986128087
+    second: kurama_spritesheet_transparent_51
+  - first:
+      213: 2983719621757824846
+    second: kurama_spritesheet_transparent_52
+  - first:
+      213: -4664502902223173761
+    second: kurama_spritesheet_transparent_53
+  - first:
+      213: 6476880587003685179
+    second: kurama_spritesheet_transparent_54
+  - first:
+      213: -153580830832654637
+    second: kurama_spritesheet_transparent_55
+  - first:
+      213: -8212641478419358319
+    second: kurama_spritesheet_transparent_56
+  - first:
+      213: 3119534253210625177
+    second: kurama_spritesheet_transparent_57
+  - first:
+      213: 2833703825356609960
+    second: kurama_spritesheet_transparent_58
+  - first:
+      213: -5338811127628941559
+    second: kurama_spritesheet_transparent_59
+  - first:
+      213: 7730075243624380128
+    second: kurama_spritesheet_transparent_60
+  - first:
+      213: -852422021505207401
+    second: kurama_spritesheet_transparent_61
+  - first:
+      213: -1391334780501408735
+    second: kurama_spritesheet_transparent_62
+  - first:
+      213: -5473828725224215024
+    second: kurama_spritesheet_transparent_63
+  - first:
+      213: -5769780522239026419
+    second: kurama_spritesheet_transparent_64
+  - first:
+      213: 2662450940198118539
+    second: kurama_spritesheet_transparent_65
+  - first:
+      213: 3272641037044459219
+    second: kurama_spritesheet_transparent_66
+  - first:
+      213: 4975072272922254144
+    second: kurama_spritesheet_transparent_67
+  - first:
+      213: 3650808882003974442
+    second: kurama_spritesheet_transparent_68
+  - first:
+      213: 8225025599711006927
+    second: kurama_spritesheet_transparent_69
+  - first:
+      213: -8177387941318806462
+    second: kurama_spritesheet_transparent_70
+  - first:
+      213: -2700253597250012552
+    second: kurama_spritesheet_transparent_71
+  - first:
+      213: -8576173819451216207
+    second: kurama_spritesheet_transparent_72
+  - first:
+      213: -3448569917088699685
+    second: kurama_spritesheet_transparent_73
+  - first:
+      213: -581121876433134324
+    second: kurama_spritesheet_transparent_74
+  - first:
+      213: -1863487649121968433
+    second: kurama_spritesheet_transparent_75
+  - first:
+      213: 8568389442468821028
+    second: kurama_spritesheet_transparent_76
+  - first:
+      213: -2534938763529146469
+    second: kurama_spritesheet_transparent_77
+  - first:
+      213: 2564100420036124339
+    second: kurama_spritesheet_transparent_78
+  - first:
+      213: -8077855313644532915
+    second: kurama_spritesheet_transparent_79
+  - first:
+      213: -6506527996448572241
+    second: kurama_spritesheet_transparent_80
+  - first:
+      213: 1420897565587217583
+    second: kurama_spritesheet_transparent_81
+  - first:
+      213: -4494109705487817303
+    second: kurama_spritesheet_transparent_82
+  - first:
+      213: -4976390286571100248
+    second: kurama_spritesheet_transparent_83
+  - first:
+      213: 2658396799909663364
+    second: kurama_spritesheet_transparent_84
+  - first:
+      213: 1019366919581346144
+    second: kurama_spritesheet_transparent_85
+  - first:
+      213: -7260061170595552771
+    second: kurama_spritesheet_transparent_86
+  - first:
+      213: 8549165787999197109
+    second: kurama_spritesheet_transparent_87
+  - first:
+      213: 4624045549912505985
+    second: kurama_spritesheet_transparent_88
+  - first:
+      213: -1586249056901422984
+    second: kurama_spritesheet_transparent_89
+  - first:
+      213: 7882153034295659931
+    second: kurama_spritesheet_transparent_90
+  - first:
+      213: -3468522254273810644
+    second: kurama_spritesheet_transparent_91
+  - first:
+      213: 7454415820740188366
+    second: kurama_spritesheet_transparent_92
+  - first:
+      213: 4282658315641199014
+    second: kurama_spritesheet_transparent_93
+  - first:
+      213: -1573044235268120501
+    second: kurama_spritesheet_transparent_94
+  - first:
+      213: -2886950443935088637
+    second: kurama_spritesheet_transparent_95
+  - first:
+      213: 412504486161694098
+    second: kurama_spritesheet_transparent_96
+  - first:
+      213: 5711645700755007
+    second: kurama_spritesheet_transparent_97
+  - first:
+      213: -544289395875466710
+    second: kurama_spritesheet_transparent_98
+  - first:
+      213: 1983298071498530815
+    second: kurama_spritesheet_transparent_99
+  - first:
+      213: -2590568926962829972
+    second: kurama_spritesheet_transparent_100
+  - first:
+      213: 8372369295314318544
+    second: kurama_spritesheet_transparent_101
+  - first:
+      213: 3221274810436228831
+    second: kurama_spritesheet_transparent_102
+  - first:
+      213: 8380238132103447788
+    second: kurama_spritesheet_transparent_103
+  - first:
+      213: -6295432047857537782
+    second: kurama_spritesheet_transparent_104
+  - first:
+      213: -1482078422820644849
+    second: kurama_spritesheet_transparent_105
+  - first:
+      213: 8266975096482430341
+    second: kurama_spritesheet_transparent_106
+  - first:
+      213: -4907262214868049632
+    second: kurama_spritesheet_transparent_107
+  - first:
+      213: 6960483033607372326
+    second: kurama_spritesheet_transparent_108
+  - first:
+      213: 8505293753257736669
+    second: kurama_spritesheet_transparent_109
+  - first:
+      213: -3808887356015522693
+    second: kurama_spritesheet_transparent_110
+  - first:
+      213: 4734235089862442050
+    second: kurama_spritesheet_transparent_111
+  - first:
+      213: -3636403840366669014
+    second: kurama_spritesheet_transparent_112
+  - first:
+      213: 7712705396297793203
+    second: kurama_spritesheet_transparent_113
+  - first:
+      213: 2399020035194724613
+    second: kurama_spritesheet_transparent_114
+  - first:
+      213: -2670915710795109248
+    second: kurama_spritesheet_transparent_115
+  - first:
+      213: -1867420313626941407
+    second: kurama_spritesheet_transparent_116
+  - first:
+      213: -5142688929836893327
+    second: kurama_spritesheet_transparent_117
+  - first:
+      213: 5278582209281167641
+    second: kurama_spritesheet_transparent_118
+  - first:
+      213: -6382070222516039742
+    second: kurama_spritesheet_transparent_119
+  - first:
+      213: -3211962787698257369
+    second: kurama_spritesheet_transparent_120
+  - first:
+      213: 9101908281932613638
+    second: kurama_spritesheet_transparent_121
+  - first:
+      213: 6918455805906830226
+    second: kurama_spritesheet_transparent_122
+  - first:
+      213: 5855130929862159963
+    second: kurama_spritesheet_transparent_123
+  - first:
+      213: -5517367813569039360
+    second: kurama_spritesheet_transparent_124
+  - first:
+      213: -5741302763729440672
+    second: kurama_spritesheet_transparent_125
+  - first:
+      213: 6401488108542673370
+    second: kurama_spritesheet_transparent_126
+  - first:
+      213: 6500889782653153805
+    second: kurama_spritesheet_transparent_127
+  - first:
+      213: -8131485072011432549
+    second: kurama_spritesheet_transparent_128
+  - first:
+      213: -371425737000515193
+    second: kurama_spritesheet_transparent_129
+  - first:
+      213: -4520359857143764771
+    second: kurama_spritesheet_transparent_130
+  - first:
+      213: 6752799697277092560
+    second: kurama_spritesheet_transparent_131
+  - first:
+      213: -1721732990508182952
+    second: kurama_spritesheet_transparent_132
+  - first:
+      213: -2834075652053341736
+    second: kurama_spritesheet_transparent_133
+  - first:
+      213: -3837362113317207440
+    second: kurama_spritesheet_transparent_134
+  - first:
+      213: -2014011356562272558
+    second: kurama_spritesheet_transparent_135
+  - first:
+      213: 3887704402803706268
+    second: kurama_spritesheet_transparent_136
+  - first:
+      213: 3979866956688663747
+    second: kurama_spritesheet_transparent_137
+  - first:
+      213: 6904223813749638188
+    second: kurama_spritesheet_transparent_138
+  - first:
+      213: 4746744381588231351
+    second: kurama_spritesheet_transparent_139
+  - first:
+      213: -4660927823757375487
+    second: kurama_spritesheet_transparent_140
+  - first:
+      213: -4696458509297563584
+    second: kurama_spritesheet_transparent_141
+  - first:
+      213: 4103911993994850928
+    second: kurama_spritesheet_transparent_142
+  - first:
+      213: 4396415806578100283
+    second: kurama_spritesheet_transparent_143
+  - first:
+      213: 627923714413703795
+    second: kurama_spritesheet_transparent_144
+  - first:
+      213: 7848381658506056973
+    second: kurama_spritesheet_transparent_145
+  - first:
+      213: 4559175460570945279
+    second: kurama_spritesheet_transparent_146
+  - first:
+      213: -3518753317766175020
+    second: kurama_spritesheet_transparent_147
+  - first:
+      213: -4713373330815741631
+    second: kurama_spritesheet_transparent_148
+  - first:
+      213: -919310001352900510
+    second: kurama_spritesheet_transparent_149
+  - first:
+      213: 4861406758829389688
+    second: kurama_spritesheet_transparent_150
+  - first:
+      213: -8635784546223502532
+    second: kurama_spritesheet_transparent_151
+  - first:
+      213: -8751777822148285512
+    second: kurama_spritesheet_transparent_152
+  - first:
+      213: 2861560119668548666
+    second: kurama_spritesheet_transparent_153
+  - first:
+      213: 7754000402512099002
+    second: kurama_spritesheet_transparent_154
+  - first:
+      213: -8918546361963241192
+    second: kurama_spritesheet_transparent_155
+  - first:
+      213: 226425540944913968
+    second: kurama_spritesheet_transparent_156
+  - first:
+      213: -3768170163123769235
+    second: kurama_spritesheet_transparent_157
+  - first:
+      213: 2175593393812271677
+    second: kurama_spritesheet_transparent_158
+  - first:
+      213: -148491214621226296
+    second: kurama_spritesheet_transparent_159
+  - first:
+      213: -1708715111524865196
+    second: kurama_spritesheet_transparent_160
+  - first:
+      213: -2932090143413628819
+    second: kurama_spritesheet_transparent_161
+  - first:
+      213: 8371727204159160582
+    second: kurama_spritesheet_transparent_162
+  - first:
+      213: -6856262494785410843
+    second: kurama_spritesheet_transparent_163
+  - first:
+      213: -850165428287423834
+    second: kurama_spritesheet_transparent_164
+  - first:
+      213: 8810288332126615942
+    second: kurama_spritesheet_transparent_165
+  - first:
+      213: 6746525562440223071
+    second: kurama_spritesheet_transparent_166
+  - first:
+      213: 5303538321173085889
+    second: kurama_spritesheet_transparent_167
+  - first:
+      213: -6628063735167306090
+    second: kurama_spritesheet_transparent_168
+  - first:
+      213: -4433194002057103261
+    second: kurama_spritesheet_transparent_169
+  - first:
+      213: 8941327212658246448
+    second: kurama_spritesheet_transparent_170
+  - first:
+      213: -8003218492223955871
+    second: kurama_spritesheet_transparent_171
+  - first:
+      213: -4462853558864955844
+    second: kurama_spritesheet_transparent_172
+  - first:
+      213: 7788706601172803788
+    second: kurama_spritesheet_transparent_173
+  - first:
+      213: -4330860770243197075
+    second: kurama_spritesheet_transparent_174
+  - first:
+      213: 5489545689476027590
+    second: kurama_spritesheet_transparent_175
+  - first:
+      213: -4550329775784161954
+    second: kurama_spritesheet_transparent_176
+  - first:
+      213: 8329270272271440517
+    second: kurama_spritesheet_transparent_177
+  - first:
+      213: 7062418534835010259
+    second: kurama_spritesheet_transparent_178
+  - first:
+      213: 4836364721289315172
+    second: kurama_spritesheet_transparent_179
+  - first:
+      213: -883292921921555541
+    second: kurama_spritesheet_transparent_180
+  - first:
+      213: -4250192468508569622
+    second: kurama_spritesheet_transparent_181
+  - first:
+      213: -6911421368330223724
+    second: kurama_spritesheet_transparent_182
+  - first:
+      213: -5125210982523859394
+    second: kurama_spritesheet_transparent_183
+  - first:
+      213: 1884699376968307953
+    second: kurama_spritesheet_transparent_184
+  - first:
+      213: 3326956787515673525
+    second: kurama_spritesheet_transparent_185
+  - first:
+      213: 5866180484358007637
+    second: kurama_spritesheet_transparent_186
+  - first:
+      213: 6656086915676324300
+    second: kurama_spritesheet_transparent_187
+  - first:
+      213: -940349671735658807
+    second: kurama_spritesheet_transparent_188
+  - first:
+      213: -739695857670574048
+    second: kurama_spritesheet_transparent_189
+  - first:
+      213: 7601046616273247305
+    second: kurama_spritesheet_transparent_190
+  - first:
+      213: 585861694673202559
+    second: kurama_spritesheet_transparent_191
+  - first:
+      213: -8074907888577093950
+    second: kurama_spritesheet_transparent_192
+  - first:
+      213: 3856519313444615666
+    second: kurama_spritesheet_transparent_193
+  - first:
+      213: 3273321887675627390
+    second: kurama_spritesheet_transparent_194
+  - first:
+      213: 5402116401335360069
+    second: kurama_spritesheet_transparent_195
+  - first:
+      213: 3509984546067547994
+    second: kurama_spritesheet_transparent_196
+  - first:
+      213: -1347789097829180330
+    second: kurama_spritesheet_transparent_197
+  - first:
+      213: 1820275713336746421
+    second: kurama_spritesheet_transparent_198
+  - first:
+      213: -231413790951538236
+    second: kurama_spritesheet_transparent_199
+  - first:
+      213: 3625210675372580126
+    second: kurama_spritesheet_transparent_200
+  - first:
+      213: -5528980522519055903
+    second: kurama_spritesheet_transparent_201
+  - first:
+      213: 2307979476742301384
+    second: kurama_spritesheet_transparent_202
+  - first:
+      213: 4456030366700463098
+    second: kurama_spritesheet_transparent_203
+  - first:
+      213: -533144540840685719
+    second: kurama_spritesheet_transparent_204
+  - first:
+      213: 4477896770731555818
+    second: kurama_spritesheet_transparent_205
+  - first:
+      213: 8983946856083314970
+    second: kurama_spritesheet_transparent_206
+  - first:
+      213: 3128970841952603620
+    second: kurama_spritesheet_transparent_207
+  - first:
+      213: -6013028786400971831
+    second: kurama_spritesheet_transparent_208
+  - first:
+      213: 3088693393373157218
+    second: kurama_spritesheet_transparent_209
+  - first:
+      213: 8711669799586037896
+    second: kurama_spritesheet_transparent_210
+  - first:
+      213: 3293500158974365419
+    second: kurama_spritesheet_transparent_211
+  - first:
+      213: 1824782012440310834
+    second: kurama_spritesheet_transparent_212
+  - first:
+      213: -3277518711393711556
+    second: kurama_spritesheet_transparent_213
+  - first:
+      213: 3297946994018716161
+    second: kurama_spritesheet_transparent_214
+  - first:
+      213: -1928888556911186609
+    second: kurama_spritesheet_transparent_215
+  - first:
+      213: -6290043802401455458
+    second: kurama_spritesheet_transparent_216
+  - first:
+      213: 4515411300346358875
+    second: kurama_spritesheet_transparent_217
+  - first:
+      213: -5796907360806914818
+    second: kurama_spritesheet_transparent_218
+  - first:
+      213: -7857866927431112447
+    second: kurama_spritesheet_transparent_219
+  - first:
+      213: 8311766818958286714
+    second: kurama_spritesheet_transparent_220
+  - first:
+      213: 5300822021119650898
+    second: kurama_spritesheet_transparent_221
+  - first:
+      213: 5862651963525237046
+    second: kurama_spritesheet_transparent_222
+  - first:
+      213: -2201115500364606232
+    second: kurama_spritesheet_transparent_223
+  - first:
+      213: -2605040857864300424
+    second: kurama_spritesheet_transparent_224
+  - first:
+      213: -473776078162484698
+    second: kurama_spritesheet_transparent_225
+  - first:
+      213: 2625384694977866087
+    second: kurama_spritesheet_transparent_226
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1537
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb44c44d6da03ae0800000000000000
+      internalID: -1571565585135547423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1537
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0cfca94c0174420800000000000000
+      internalID: 2614076545308803251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1537
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc87712faf5372a0800000000000000
+      internalID: -6740939011458102071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1537
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d56bc4a86aecd680800000000000000
+      internalID: -8728844242588572202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1538
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056b0c8a74a904740800000000000000
+      internalID: 5134273207766922832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1539
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0032739e40bd51c0800000000000000
+      internalID: -4513257400027697142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1537
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8859cb01ba582560800000000000000
+      internalID: 7289175713352603791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1537
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df8e6f1a726dc050800000000000000
+      internalID: 5822418169912791001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1537
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9662c1c51caeaa0800000000000000
+      internalID: -6130875341358077450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1540
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10836f0deedc694e0800000000000000
+      internalID: -1975164960963676159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1468
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1c7ff63fb45e450800000000000000
+      internalID: 6117379177780330965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1468
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3928f2940a662080800000000000000
+      internalID: -9212559419861620420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1469
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6883154e27daf43d0800000000000000
+      internalID: -3220164499578210170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1469
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37848a4a3c6cdfe0800000000000000
+      internalID: -1162935606154328262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1467
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d7a4e7440bbc4d0800000000000000
+      internalID: -3113200909173490375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1467
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cf3bcb8cab473d0800000000000000
+      internalID: -3209735263086183298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1467
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fb3880c457dd150800000000000000
+      internalID: 5899000056346033924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1467
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc581c094f24f8b0800000000000000
+      internalID: -5119414885631369985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1467
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe35237e9a792510800000000000000
+      internalID: 1524884769796865786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1467
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f28ad3a198ce9a90800000000000000
+      internalID: -7305181017703546121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1399
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c32afdbce07b7450800000000000000
+      internalID: 6087583483423237063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1399
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b062e1b66ab2460800000000000000
+      internalID: 7218045806788872974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1397
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ab633dcea6f94e0800000000000000
+      internalID: -1972740546376582611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1397
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc35df2edc28af50800000000000000
+      internalID: 6892808562487409885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1397
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9369020e21f8ef70800000000000000
+      internalID: 9216881817318679452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1397
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcba7f6232c70a30800000000000000
+      internalID: 4181524300911262968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1397
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5279cdb40f004670800000000000000
+      internalID: 8520827008023360092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_27
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1397
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33897970e543e6e0800000000000000
+      internalID: -1809525794859809988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_28
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1397
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cd493a9372e7560800000000000000
+      internalID: 7313325973407325227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_29
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1399
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b2e5e02a0671f40800000000000000
+      internalID: 5699130102602672911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1327
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2eeab6115b725280800000000000000
+      internalID: -9056040312484729297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_31
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1327
+        width: 57
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d62877b28f66580800000000000000
+      internalID: -8834100753468330721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_32
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1333
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a2069a9c0d11800800000000000000
+      internalID: 581475391456160296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_33
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1334
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74684de97dd10780800000000000000
+      internalID: -8718443887870843777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_34
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1335
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c59ac7c6fdb8870800000000000000
+      internalID: 8686281963355069571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_35
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1331
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e16fdcb425dc7c0800000000000000
+      internalID: -4049490004404724120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_36
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1327
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45afeeebb5432bd90800000000000000
+      internalID: -7083541695250367916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_37
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1327
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9d24c4f2e72e790800000000000000
+      internalID: -7502295287637812827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_38
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1329
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f17341f1119b690800000000000000
+      internalID: -7586013272148074680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_39
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1329
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea0dc5938a84eaa0800000000000000
+      internalID: -6132624494813181206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_40
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1254
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd2d015326cfd4d0800000000000000
+      internalID: -3107547362876379661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_41
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1253
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e04f6a6d646069c0800000000000000
+      internalID: -3936035653221924635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1252
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e6d58f371d7ec60800000000000000
+      internalID: 7847471171734695447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_43
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1253
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b291547aa5c286b20800000000000000
+      internalID: 3127798709073811755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_44
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1254
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1971c4cf3e3f1ff90800000000000000
+      internalID: -6921482991775770735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_45
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1275
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840878ce06ce37ab0800000000000000
+      internalID: -5011402059303911352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_46
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1263
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0caf4680a427c00800000000000000
+      internalID: 896860675714498814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_47
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1256
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a602d17372692fa20800000000000000
+      internalID: 3094700989129498730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_48
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1257
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a4f997ffd2c5750800000000000000
+      internalID: 6294956954437503587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_49
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1257
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d77db7459030eb90800000000000000
+      internalID: -7214713185335674919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_50
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1188
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfeb78b6cc107a0c0800000000000000
+      internalID: -4564677719827693829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_51
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1182
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ded967e999623b00800000000000000
+      internalID: 806823392986128087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_52
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1186
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fec34003d486920800000000000000
+      internalID: 2983719621757824846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_53
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1187
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f778533f25b544fb0800000000000000
+      internalID: -4664502902223173761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_54
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1187
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b396af0f39082e950800000000000000
+      internalID: 6476880587003685179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_55
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1187
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d609ed4c0f5eddf0800000000000000
+      internalID: -153580830832654637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_56
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1187
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ddc2b7616d60e80800000000000000
+      internalID: -8212641478419358319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_57
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1187
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994684310efca4b20800000000000000
+      internalID: 3119534253210625177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_58
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1187
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9db059d96535720800000000000000
+      internalID: 2833703825356609960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_59
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1187
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90736cec09bb8e5b0800000000000000
+      internalID: -5338811127628941559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_60
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1117
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6b5477a7eb64b60800000000000000
+      internalID: 7730075243624380128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_61
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1117
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793367110b69b24f0800000000000000
+      internalID: -852422021505207401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_62
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1117
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1244194836cf0bce0800000000000000
+      internalID: -1391334780501408735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_63
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1117
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e6ea7a6cd0904b0800000000000000
+      internalID: -5473828725224215024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_64
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1117
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b99f34f2f9defa0800000000000000
+      internalID: -5769780522239026419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_65
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1117
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84e96a160de2f420800000000000000
+      internalID: 2662450940198118539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_66
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1117
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6a66a1fa1ca6d20800000000000000
+      internalID: 3272641037044459219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_67
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1117
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b1d678fd10b0540800000000000000
+      internalID: 4975072272922254144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_68
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1117
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2910bad5574aa230800000000000000
+      internalID: 3650808882003974442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_69
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1117
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0d4437439252270800000000000000
+      internalID: 8225025599711006927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_70
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1047
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24431273ef4148e80800000000000000
+      internalID: -8177387941318806462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_71
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1047
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a317ce8a5c68ad0800000000000000
+      internalID: -2700253597250012552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_72
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1047
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beea97895f4bf880800000000000000
+      internalID: -8576173819451216207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_73
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1047
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda64d48ee73420d0800000000000000
+      internalID: -3448569917088699685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_74
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1047
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d9ef77bb07fe7f0800000000000000
+      internalID: -581121876433134324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_75
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1047
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fced1c63bdf8326e0800000000000000
+      internalID: -1863487649121968433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_76
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1047
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428bf87fcc809e670800000000000000
+      internalID: 8568389442468821028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_77
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1047
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f2a7010a612dcd0800000000000000
+      internalID: -2534938763529146469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_78
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1047
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bedea03fb3859320800000000000000
+      internalID: 2564100420036124339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_79
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1047
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b473bf361b5ef80800000000000000
+      internalID: -8077855313644532915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_80
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 977
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac7c82a24b24b5a0800000000000000
+      internalID: -6506527996448572241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_81
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 977
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac1b03ceca08b310800000000000000
+      internalID: 1420897565587217583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_82
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 977
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a563ce9807b1a1c0800000000000000
+      internalID: -4494109705487817303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_83
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 977
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7a931866f40fab0800000000000000
+      internalID: -4976390286571100248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_84
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 977
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48296a20ec584e420800000000000000
+      internalID: 2658396799909663364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_85
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 977
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0692e6100d4852e00800000000000000
+      internalID: 1019366919581346144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_86
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 977
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1ab0fa4d41f3b90800000000000000
+      internalID: -7260061170595552771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_87
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 977
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b75d9f1dfcb4a670800000000000000
+      internalID: 8549165787999197109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_88
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 977
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18eb2cbade8eb2040800000000000000
+      internalID: 4624045549912505985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_89
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 977
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870a71613e28cf9e0800000000000000
+      internalID: -1586249056901422984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_90
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 907
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dc57a5c68036d60800000000000000
+      internalID: 7882153034295659931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_91
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 907
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fe87203655ddfc0800000000000000
+      internalID: -3468522254273810644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_92
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 907
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8554b91b7637760800000000000000
+      internalID: 7454415820740188366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_93
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 907
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a99a2e2c0f0f6b30800000000000000
+      internalID: 4282658315641199014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_94
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 907
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b402ed43a9c6b2ae0800000000000000
+      internalID: -1573044235268120501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_95
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 907
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300c711fddd7fe7d0800000000000000
+      internalID: -2886950443935088637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_96
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 907
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d3ce505a289b500800000000000000
+      internalID: 412504486161694098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_97
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 907
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e831526ba441000800000000000000
+      internalID: 5711645700755007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_98
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 907
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22b4df9dab4278f0800000000000000
+      internalID: -544289395875466710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_99
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 908
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff136b8617168b10800000000000000
+      internalID: 1983298071498530815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_100
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 837
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65373e49437c0cd0800000000000000
+      internalID: -2590568926962829972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_101
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 837
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4f89fe381a03470800000000000000
+      internalID: 8372369295314318544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_102
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 837
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd617ff7f5444bc20800000000000000
+      internalID: 3221274810436228831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_103
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 837
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce485354e269c4470800000000000000
+      internalID: 8380238132103447788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_104
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 837
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d67d738e122a8a0800000000000000
+      internalID: -6295432047857537782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_105
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 837
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08118ed6899e6be0800000000000000
+      internalID: -1482078422820644849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_106
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 837
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58df5d8cc023ab270800000000000000
+      internalID: 8266975096482430341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_107
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 837
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021e71fe307e5ebb0800000000000000
+      internalID: -4907262214868049632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_108
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 837
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62efc4bd07a989060800000000000000
+      internalID: 6960483033607372326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_109
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 837
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9b6490b9fd80670800000000000000
+      internalID: 8505293753257736669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_110
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 767
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cc73b412d142bc0800000000000000
+      internalID: -3808887356015522693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_111
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 767
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cb07e2bb163b140800000000000000
+      internalID: 4734235089862442050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_112
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 767
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23141349f5e88dc0800000000000000
+      internalID: -3636403840366669014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_113
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 767
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be719bb1b8090b60800000000000000
+      internalID: 7712705396297793203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_114
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 817
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501a3dee2080b4120800000000000000
+      internalID: 2399020035194724613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_115
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 767
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c2c09ef400fead0800000000000000
+      internalID: -2670915710795109248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_116
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 767
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128eae76e179516e0800000000000000
+      internalID: -1867420313626941407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_117
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 767
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bfcba5aaf71a8b0800000000000000
+      internalID: -5142688929836893327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_118
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 767
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91196ed5d8a414940800000000000000
+      internalID: 5278582209281167641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_119
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 767
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf455f32f45e67a0800000000000000
+      internalID: -6382070222516039742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_120
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 767
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722d87fbcd0dc63d0800000000000000
+      internalID: -3211962787698257369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 697
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60887c2cb59705e70800000000000000
+      internalID: 9101908281932613638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_122
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 697
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293c05166ea430060800000000000000
+      internalID: 6918455805906830226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_123
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 697
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e26d31f8a914150800000000000000
+      internalID: 5855130929862159963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_124
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 697
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0043b01b43f5e63b0800000000000000
+      internalID: -5517367813569039360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_125
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 697
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06030fb1e8bc250b0800000000000000
+      internalID: -5741302763729440672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_126
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 697
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1c297a487a6d850800000000000000
+      internalID: 6401488108542673370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_127
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 697
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02f10b60dcc73a50800000000000000
+      internalID: 6500889782653153805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_128
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 697
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ded52d869272f80800000000000000
+      internalID: -8131485072011432549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_129
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 697
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78985a5924e68daf0800000000000000
+      internalID: -371425737000515193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_130
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 697
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8a20ae8a47441c0800000000000000
+      internalID: -4520359857143764771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_131
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 627
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2019bfb83c6bd50800000000000000
+      internalID: 6752799697277092560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_132
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 627
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85250be97fc2b18e0800000000000000
+      internalID: -1721732990508182952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_133
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 627
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9e6c4c5375ba8d0800000000000000
+      internalID: -2834075652053341736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_134
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 627
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0728f293d73febac0800000000000000
+      internalID: -3837362113317207440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_135
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 627
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dec086875bcc04e0800000000000000
+      internalID: -2014011356562272558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_136
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 626
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9946d07e86e3f530800000000000000
+      internalID: 3887704402803706268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_137
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 626
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c42ebe29e35b3730800000000000000
+      internalID: 3979866956688663747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_138
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 624
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24075c7afab0df50800000000000000
+      internalID: 6904223813749638188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_139
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 623
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4d520add2dfd140800000000000000
+      internalID: 4746744381588231351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_140
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 623
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1080535c6de015fb0800000000000000
+      internalID: -4660927823757375487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_141
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 553
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04845f26ed3d2deb0800000000000000
+      internalID: -4696458509297563584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_142
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 553
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072378f073604f830800000000000000
+      internalID: 4103911993994850928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_143
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 553
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38000402e4330d30800000000000000
+      internalID: 4396415806578100283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_144
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 555
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3723ca79a45d6b800800000000000000
+      internalID: 627923714413703795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_145
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 554
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05d1f0398d0bec60800000000000000
+      internalID: 7848381658506056973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_146
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 555
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff652040de1754f30800000000000000
+      internalID: 4559175460570945279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_147
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 555
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6e15a2080ea2fc0800000000000000
+      internalID: -3518753317766175020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_148
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 555
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1419dea9debb69eb0800000000000000
+      internalID: -4713373330815741631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_149
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 554
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26085eaac64fd33f0800000000000000
+      internalID: -919310001352900510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_150
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 555
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87775b8b0bf277340800000000000000
+      internalID: 4861406758829389688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_151
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 485
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b4a85a5b7872880800000000000000
+      internalID: -8635784546223502532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_152
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 487
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bba5bd80707b8680800000000000000
+      internalID: -8751777822148285512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_153
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 487
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34a44484cd46b720800000000000000
+      internalID: 2861560119668548666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_154
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 487
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab638fb984ebb9b60800000000000000
+      internalID: 7754000402512099002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_155
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 487
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81124561655fa3480800000000000000
+      internalID: -8918546361963241192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_156
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 487
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036e81074dc642300800000000000000
+      internalID: 226425540944913968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_157
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 487
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6038c58335c4bbc0800000000000000
+      internalID: -3768170163123769235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_158
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 487
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32fdd53aa2413e10800000000000000
+      internalID: 2175593393812271677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_159
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 500
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca4c3ce60470fdf0800000000000000
+      internalID: -148491214621226296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_160
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 522
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45be733c8ac6948e0800000000000000
+      internalID: -1708715111524865196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_161
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 522
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d601868ac8f1f47d0800000000000000
+      internalID: -2932090143413628819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_162
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 478
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601816079895e2470800000000000000
+      internalID: 8371727204159160582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_163
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 447
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e86b774699a9d0a0800000000000000
+      internalID: -6856262494785410843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_164
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 437
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa3c9e1c0b9334f0800000000000000
+      internalID: -850165428287423834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_165
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 442
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689fc252f8e644a70800000000000000
+      internalID: 8810288332126615942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_166
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 437
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f598751214970ad50800000000000000
+      internalID: 6746525562440223071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_167
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 436
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce7136f004f99940800000000000000
+      internalID: 5303538321173085889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_168
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 417
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69634bc56236404a0800000000000000
+      internalID: -6628063735167306090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_169
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 416
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3687efe0b812a72c0800000000000000
+      internalID: -4433194002057103261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_170
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 345
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033470b0ab9f51c70800000000000000
+      internalID: 8941327212658246448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_171
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 345
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c57272f2bdee090800000000000000
+      internalID: -8003218492223955871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_172
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 345
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36344b5552c012c0800000000000000
+      internalID: -4462853558864955844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_173
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 345
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc025ae236b071c60800000000000000
+      internalID: 7788706601172803788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_174
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 345
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67caf94311b5e3c0800000000000000
+      internalID: -4330860770243197075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_175
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 345
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4de7f38b8ce2c40800000000000000
+      internalID: 5489545689476027590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_176
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 345
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d80877d2bf9d0c0800000000000000
+      internalID: -4550329775784161954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_177
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 345
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ad5f8ae23879370800000000000000
+      internalID: 8329270272271440517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_178
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 345
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dab9f73d30c20260800000000000000
+      internalID: 7062418534835010259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_179
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 345
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4634ea007183e1340800000000000000
+      internalID: 4836364721289315172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_180
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 282
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3bf3474c9edb3f0800000000000000
+      internalID: -883292921921555541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_181
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 282
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef8187e7784405c0800000000000000
+      internalID: -4250192468508569622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_182
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 282
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ff1af32e2b510a0800000000000000
+      internalID: -6911421368330223724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_183
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 282
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e0cb314c79fd8b0800000000000000
+      internalID: -5125210982523859394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_184
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 282
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f49898091cc72a10800000000000000
+      internalID: 1884699376968307953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_185
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 282
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb42fe3299bb2e20800000000000000
+      internalID: 3326956787515673525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_186
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 282
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bec76f11cd86150800000000000000
+      internalID: 5866180484358007637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_187
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 282
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1430bc8cb2f5c50800000000000000
+      internalID: 6656086915676324300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_188
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 282
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c67a8ba4f433f2f0800000000000000
+      internalID: -940349671735658807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_189
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 282
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020b7b959821cb5f0800000000000000
+      internalID: -739695857670574048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_190
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 219
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cd62c10a75c7960800000000000000
+      internalID: 7601046616273247305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_191
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 219
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d21867b16612800800000000000000
+      internalID: 585861694673202559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_192
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 219
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cedc5bde0a20ff80800000000000000
+      internalID: -8074907888577093950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_193
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 219
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5bc4302eb158530800000000000000
+      internalID: 3856519313444615666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_194
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 219
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77ba6ef9ec2d6d20800000000000000
+      internalID: 3273321887675627390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_195
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 219
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ad7e0de3c28fa40800000000000000
+      internalID: 5402116401335360069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_196
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 219
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5787731958f5b030800000000000000
+      internalID: 3509984546067547994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_197
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 219
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c5fb7d4f0bb4de0800000000000000
+      internalID: -1347789097829180330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_198
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 219
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b125b6fd1be24910800000000000000
+      internalID: 1820275713336746421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_199
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 219
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1053a126ad9ccf0800000000000000
+      internalID: -231413790951538236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_200
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 143
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d598de6e55f4230800000000000000
+      internalID: 3625210675372580126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_201
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 143
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1b231328d1543b0800000000000000
+      internalID: -5528980522519055903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_202
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 143
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6ed1c1b17970020800000000000000
+      internalID: 2307979476742301384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_203
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 143
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3e88b620007dd30800000000000000
+      internalID: 4456030366700463098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_204
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 143
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f80456dd3e998f0800000000000000
+      internalID: -533144540840685719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_205
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 143
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebb258536fa42e30800000000000000
+      internalID: 4477896770731555818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_206
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 143
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1955dd01146dac70800000000000000
+      internalID: 8983946856083314970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_207
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 143
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edc32b17665c6b20800000000000000
+      internalID: 3128970841952603620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_208
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 143
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c33f5a5d2e6d8ca0800000000000000
+      internalID: -6013028786400971831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_209
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 143
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2675a14d64e3dda20800000000000000
+      internalID: 3088693393373157218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_210
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 80
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88003dcb68116e870800000000000000
+      internalID: 8711669799586037896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_211
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 80
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee0c53e1fcd4bd20800000000000000
+      internalID: 3293500158974365419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_212
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 80
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234f60c729de25910800000000000000
+      internalID: 1824782012440310834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_213
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 80
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a8ea6d81ae382d0800000000000000
+      internalID: -3277518711393711556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_214
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 80
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a8d8a5159a4cd20800000000000000
+      internalID: 3297946994018716161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_215
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 80
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d2ef1c3163b35e0800000000000000
+      internalID: -1928888556911186609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_216
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 80
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92c630ec7645b8a0800000000000000
+      internalID: -6290043802401455458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_217
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 80
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cedeb67a6f9ae30800000000000000
+      internalID: 4515411300346358875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_218
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 80
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4b14bf77f3d8fa0800000000000000
+      internalID: -5796907360806914818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_219
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 80
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109ad2a89af33f290800000000000000
+      internalID: -7857866927431112447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_220
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f13eb52e3595370800000000000000
+      internalID: 8311766818958286714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_221
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ca7621b8d409940800000000000000
+      internalID: 5300822021119650898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_222
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 17
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6390baf26e25c5150800000000000000
+      internalID: 5862651963525237046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_223
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 17
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4592b4d111471e0800000000000000
+      internalID: -2201115500364606232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_224
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 17
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8789e91542909dbd0800000000000000
+      internalID: -2605040857864300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_225
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 17
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6222c06ca2fcc69f0800000000000000
+      internalID: -473776078162484698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_spritesheet_transparent_226
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 156
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76927ee587d3f6420800000000000000
+      internalID: 2625384694977866087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
